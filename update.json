@@ -1,8 +1,8 @@
 {
-  "versionCode": 36,
-  "versionName": "1.3.18",
-  "releaseNotes": "Las categorías de películas y series muestran el catálogo completo en una cuadrícula.",
+  "versionCode": 38,
+  "versionName": "1.3.20",
+  "releaseNotes": "Incluye las cinco películas más recientes destacadas y ofrece abrir la app al volver del instalador.",
   "catalogUrl": "https://raw.githubusercontent.com/chilinisky/chilinisky-updates/main/catalog.json",
-  "mobileApkUrl": "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.18/chilinisky-mobile-v36.apk",
-  "tvApkUrl": "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.18/chilinisky-tv-v36.apk"
+  "mobileApkUrl": "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.20/chilinisky-mobile-v38.apk",
+  "tvApkUrl": "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.20/chilinisky-tv-v38.apk"
 }
