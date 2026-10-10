@@ -1,8 +1,8 @@
 {
-  "versionCode": 31,
-  "versionName": "1.3.13",
-  "releaseNotes": "Ajuste de pantalla completa y reproducción en Android TV.",
+  "versionCode": 32,
+  "versionName": "1.3.14",
+  "releaseNotes": "Corrección del botón Atrás en TV y mejoras del reproductor.",
   "catalogUrl": "https://raw.githubusercontent.com/chilinisky/chilinisky-updates/main/catalog.json",
-  "mobileApkUrl": "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.13/chilinisky-mobile-v31.apk",
-  "tvApkUrl": "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.13/chilinisky-tv-v31.apk"
+  "mobileApkUrl": "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.14/chilinisky-mobile-v32.apk",
+  "tvApkUrl": "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.14/chilinisky-tv-v32.apk"
 }
