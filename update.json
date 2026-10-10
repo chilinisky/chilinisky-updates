@@ -1,8 +1,8 @@
 {
-  "versionCode": 34,
-  "versionName": "1.3.16",
-  "releaseNotes": "Corrección de play/pausa en TV, nombre ChiliniskyTV en la barra y navegación con mando mejorada.",
+  "versionCode": 35,
+  "versionName": "1.3.17",
+  "releaseNotes": "Nuevo diseño de catálogo para TV y mejoras del reproductor y control play/pausa.",
   "catalogUrl": "https://raw.githubusercontent.com/chilinisky/chilinisky-updates/main/catalog.json",
-  "mobileApkUrl": "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.16/chilinisky-mobile-v34.apk",
-  "tvApkUrl": "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.16/chilinisky-tv-v34.apk"
+  "mobileApkUrl": "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.17/chilinisky-mobile-v35.apk",
+  "tvApkUrl": "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.17/chilinisky-tv-v35.apk"
 }
