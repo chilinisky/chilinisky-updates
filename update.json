@@ -1,8 +1,8 @@
 {
-  "versionCode": 35,
-  "versionName": "1.3.17",
-  "releaseNotes": "Nuevo diseño de catálogo para TV y mejoras del reproductor y control play/pausa.",
+  "versionCode": 36,
+  "versionName": "1.3.18",
+  "releaseNotes": "Las categorías de películas y series muestran el catálogo completo en una cuadrícula.",
   "catalogUrl": "https://raw.githubusercontent.com/chilinisky/chilinisky-updates/main/catalog.json",
-  "mobileApkUrl": "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.17/chilinisky-mobile-v35.apk",
-  "tvApkUrl": "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.17/chilinisky-tv-v35.apk"
+  "mobileApkUrl": "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.18/chilinisky-mobile-v36.apk",
+  "tvApkUrl": "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.18/chilinisky-tv-v36.apk"
 }
