@@ -1,0 +1,4646 @@
+{
+  "revision": "af7e17a2bf78fd6f11b1a6d4fce17a0ea4574242af7e9ced6a6abf127c506e7d",
+  "resources": [
+    {
+      "id": 1,
+      "movieId": "",
+      "title": "Spider-Man: Un nuevo día (2026)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-2nulhg4mnuz7.html",
+      "url": [
+        "https://vimeos.net/embed-2nulhg4mnuz7.html"
+      ],
+      "poster": "https://preview.citicinemas.com/_next/image?q=75&url=https%3A%2F%2Fstorage.googleapis.com%2Fciticinemas-store%2FMovie-2267%2Fposter%2FmuyFcE5uGr8y%2FBRAND+NEW+DAY.jpg&w=1080",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:1"
+    },
+    {
+      "id": 3,
+      "movieId": "supergirl-2026",
+      "title": "Supergirl (2026)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-3lrsrb8yg9r7.html",
+      "url": [
+        "https://vimeos.net/embed-3lrsrb8yg9r7.html"
+      ],
+      "poster": "https://i.ebayimg.com/images/g/oB4AAeSwvQhpOfpL/s-l1600.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:2"
+    },
+    {
+      "id": 4,
+      "movieId": "los-juegos-del-hambre-2012",
+      "title": "Los juegos del hambre (2012)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-o2bwxaacw4t6.html",
+      "url": "https://vimeos.net/embed-o2bwxaacw4t6.html",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjAyNGMwMjktNTkzYy00MzZmLWJiOTUtNWQ2NjUyZTJiYmZiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:3"
+    },
+    {
+      "id": 5,
+      "movieId": "la-estafa-de-los-logan-2017",
+      "title": "La estafa de los Logan (2017)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-7a346fpldqwt.html",
+      "url": [
+        "https://vimeos.net/embed-7a346fpldqwt.html"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTI3ZjAzMTctYmVkNC00ZGUyLTlhNGMtMGNkYzRhNzNkY2ZiXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:4"
+    },
+    {
+      "id": 6,
+      "movieId": "la-conductora-2025",
+      "title": "La conductora (2025)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-px69kx2cv1e7.html",
+      "url": "https://vimeos.net/embed-px69kx2cv1e7.html",
+      "poster": "https://image.tmdb.org/t/p/w500/nDNvZhJeMSwi8UH8jbpZvLMUfjp.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:5"
+    },
+    {
+      "id": 7,
+      "movieId": "el-hombre-que-desafio-al-rey-2026",
+      "title": "El hombre que desafió al rey (2026)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-t43yxgtce1ah.html",
+      "url": [
+        "https://vimeos.net/embed-t43yxgtce1ah.html"
+      ],
+      "poster": "https://cdn.discordapp.com/attachments/1549186808208826437/1558190230618509482/Imagen_de_ChatGPT_9_oct_2026_15_51_28.png?ex=6aca893c&is=6ac937bc&hm=cc47003f0a0635b33e98c2212c04f437bb06b447e23a9904b5c0181adb098781&",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:6"
+    },
+    {
+      "id": 1,
+      "movieId": "",
+      "title": "Toy Story 5 (2026)",
+      "description": "",
+      "category": "animacion",
+      "videoUrl": "https://vimeos.net/embed-q0siugndjwh2.html",
+      "url": [
+        "https://vimeos.net/embed-q0siugndjwh2.html"
+      ],
+      "poster": "https://www.newdvdreleasedates.com/images/posters/large/toy-story-5-2026-01.jpg",
+      "type": "movie",
+      "categoryName": "Animación",
+      "adminKey": "local:7"
+    },
+    {
+      "id": 3,
+      "movieId": "minions-monstruos-2026",
+      "title": "Minions & Monstruos (2026)",
+      "description": "",
+      "category": "animacion",
+      "videoUrl": "https://vimeos.net/embed-rxibp0g06k4r.html",
+      "url": [
+        "https://vimeos.net/embed-rxibp0g06k4r.html"
+      ],
+      "poster": "https://www.ecartelera.com/carteles/19800/19891/001.jpg",
+      "type": "movie",
+      "categoryName": "Animación",
+      "adminKey": "local:8"
+    },
+    {
+      "id": 4,
+      "movieId": "demon-slayer-kimetsu-no-yaiba-castillo-infinito-2025",
+      "title": "Demon Slayer: Kimetsu no Yaiba Castillo infinito (2025)",
+      "description": "",
+      "category": "animacion",
+      "videoUrl": "https://vimeos.net/embed-6qt3e73ge4t9.html",
+      "url": [
+        "https://vimeos.net/embed-6qt3e73ge4t9.html"
+      ],
+      "poster": "https://storage.googleapis.com/citicinemas-store/Movie-2078/poster/GD1tKENMjjQq/demon%20slayer%20castillo%20infinito.jpg",
+      "type": "movie",
+      "categoryName": "Animación",
+      "adminKey": "local:9"
+    },
+    {
+      "id": 5,
+      "movieId": "avatar-aang-el-ultimo-maestro-aire-2026",
+      "title": "Avatar: Aang, El último Maestro Aire (2026)",
+      "description": "",
+      "category": "animacion",
+      "videoUrl": "https://vimeos.net/embed-bskcbkf2zfia.html",
+      "url": [
+        "https://vimeos.net/embed-bskcbkf2zfia.html"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w780/e2VzQmZufeY3BPH0zWtIyr07Z7w.jpg",
+      "type": "movie",
+      "categoryName": "Animación",
+      "adminKey": "local:10"
+    },
+    {
+      "id": 6,
+      "movieId": "coraline-y-la-puerta-secreta-2009",
+      "title": "Coraline y la puerta secreta (2009)",
+      "description": "",
+      "category": "animacion",
+      "videoUrl": "https://vimeos.net/embed-u9g40elruo97.html",
+      "url": "https://vimeos.net/embed-u9g40elruo97.html",
+      "poster": "https://image.tmdb.org/t/p/w200/xz1HjxeqpIACyPtJMqv33Z2RjRP.jpg",
+      "type": "movie",
+      "categoryName": "Animación",
+      "adminKey": "local:11"
+    },
+    {
+      "id": 7,
+      "movieId": "family-guy-happy-hell-o-ween-2026",
+      "title": "Family Guy Happy Hell-o-ween (2026)",
+      "description": "",
+      "category": "animacion",
+      "videoUrl": "https://vimeos.net/embed-co2fdask43kv.html",
+      "url": [
+        "https://vimeos.net/embed-co2fdask43kv.html"
+      ],
+      "poster": "https://www.laughingplace.com/uploads/media/2026/09/Family-Guy-2026-Halloween-Special-Official-Trailer.jpeg/w1080",
+      "type": "movie",
+      "categoryName": "Animación",
+      "adminKey": "local:12"
+    },
+    {
+      "id": 1,
+      "movieId": "",
+      "title": "El final de la Calle Oak (2026)",
+      "description": "",
+      "category": "ciencia_ficcion",
+      "videoUrl": "https://vimeos.net/embed-8m5djtdb04t1.html",
+      "url": [
+        "https://vimeos.net/embed-8m5djtdb04t1.html"
+      ],
+      "poster": "https://mx.web.img3.acsta.net/img/72/33/72333906b93bceb6f131d212de9565e2.png",
+      "type": "movie",
+      "categoryName": "Ciencia ficción",
+      "adminKey": "local:13"
+    },
+    {
+      "id": 1,
+      "movieId": "MoanaLiveAction",
+      "title": "Moana (2026)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-rxqr2clfd240.html",
+      "url": "https://vimeos.net/embed-rxqr2clfd240.html",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1OTQ2Y2UtMzllNS00ODFiLWFkNGItNGRjOWRlMjIwNTRlXkEyXkFqcGc@._V1_.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:14"
+    },
+    {
+      "id": 1,
+      "movieId": "",
+      "title": "La noche del demonio: Están entre nosotros (2026)",
+      "description": "",
+      "category": "terror",
+      "videoUrl": "https://vimeos.net/embed-n74ixjw4gkhz.html",
+      "url": [
+        "https://vimeos.net/embed-n74ixjw4gkhz.html"
+      ],
+      "poster": "https://www.albacinema.com.gt/public/uploads/cartelera/1783433875-insiduos6_para_web.jpg",
+      "type": "movie",
+      "categoryName": "Terror",
+      "adminKey": "local:15"
+    },
+    {
+      "id": 3,
+      "movieId": "evil-dead-en-llamas-2026",
+      "title": "Evil Dead: En llamas (2026)",
+      "description": "",
+      "category": "terror",
+      "videoUrl": "https://vimeos.net/embed-72cgndb5cklj.html",
+      "url": [
+        "https://vimeos.net/embed-72cgndb5cklj.html"
+      ],
+      "poster": "https://mx.web.img3.acsta.net/img/9b/a0/9ba042820aa871003fbf4c69cd8fd54a.jpg",
+      "type": "movie",
+      "categoryName": "Terror",
+      "adminKey": "local:16"
+    },
+    {
+      "id": 4,
+      "movieId": "soulm8te-2026",
+      "title": "Soulm8te (2026)",
+      "description": "",
+      "category": "terror",
+      "videoUrl": "https://vimeos.net/embed-ixen70lyabdk.html",
+      "url": [
+        "https://vimeos.net/embed-ixen70lyabdk.html"
+      ],
+      "poster": "https://image.tmdb.org/t/p/original/bNErActDctl6cdUGw9pnjSCmyhQ.jpg",
+      "type": "movie",
+      "categoryName": "Terror",
+      "adminKey": "local:17"
+    },
+    {
+      "id": 5,
+      "movieId": "sangriento-san-valentin-2009",
+      "title": "Sangriento San Valentín (2009)",
+      "description": "",
+      "category": "terror",
+      "videoUrl": "https://vimeos.net/embed-tkyxm9tdnb84.html",
+      "url": [
+        "https://vimeos.net/embed-tkyxm9tdnb84.html"
+      ],
+      "poster": "https://media-cache.cinematerial.com/p/500x/i5xyxqmj/my-bloody-valentine-italian-movie-poster.jpg?v=1456640884",
+      "type": "movie",
+      "categoryName": "Terror",
+      "adminKey": "local:18"
+    },
+    {
+      "id": 1,
+      "movieId": "la-chica-de-miller-2024",
+      "title": "La Chica de Miller (2024)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-ggjay4pt98i1.html",
+      "url": [
+        "https://vimeos.net/embed-ggjay4pt98i1.html"
+      ],
+      "poster": "https://tomatazos.buscafs.com/2024/09/chica-miller.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:19"
+    },
+    {
+      "id": 2,
+      "movieId": "con-todos-menos-contigo-2023",
+      "title": "Con todos menos contigo (2023)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-qc1f1xuy9hwr.html",
+      "url": [
+        "https://vimeos.net/embed-qc1f1xuy9hwr.html"
+      ],
+      "poster": "https://mx.web.img3.acsta.net/pictures/23/12/12/19/18/0489818.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:20"
+    },
+    {
+      "id": 1,
+      "movieId": "el-diablo-viste-a-la-moda-2-2026",
+      "title": "El diablo viste a la moda 2 (2026)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-hc5o8aypkyon.html",
+      "url": [
+        "https://vimeos.net/embed-hc5o8aypkyon.html"
+      ],
+      "poster": "https://periodicocorreo.com.mx/core/correo/assets/images/2026/03/12/hdno4dcw4aa8ju5-TkeADdAMN.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:21"
+    },
+    {
+      "id": 2,
+      "movieId": "bajo-anestesia-2007",
+      "title": "Bajo anestesia (2007)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-w3gqja8y9n2w.html",
+      "url": [
+        "https://vimeos.net/embed-w3gqja8y9n2w.html"
+      ],
+      "poster": "https://m.media-amazon.com/images/S/pv-target-images/434ea9c98146dac6261826a94fd6c420378825438ae8b81c18263b57811f4a55.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:22"
+    },
+    {
+      "id": 3,
+      "movieId": "triste-san-valentin-2010",
+      "title": "Triste San Valentín (2010)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-1t8qbeq6x84v.html",
+      "url": [
+        "https://vimeos.net/embed-1t8qbeq6x84v.html"
+      ],
+      "poster": "https://mx.web.img2.acsta.net/pictures/20/03/03/03/57/3222089.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:23"
+    },
+    {
+      "id": 4,
+      "movieId": "sunrise-el-ultimo-amanecer-2026",
+      "title": "Sunrise: El último amanecer (2026)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-myaqf6eoprzq.html",
+      "url": "https://vimeos.net/embed-myaqf6eoprzq.html",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv8_qvSsJgt1eWcO5DFCI-EpO-7VNdGsE2f1IEsaxQQz20a3qvMNlUW2mB&s=10",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:24"
+    },
+    {
+      "id": 5,
+      "movieId": "proyecto-x-2012",
+      "title": "Proyecto X (2012)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-m77o89mwro71.html",
+      "url": [
+        "https://vimeos.net/embed-m77o89mwro71.html"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTZiMTkyMjItYWZjMC00YTdkLWI2YjMtYThiOWU1YWUzZmQyXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:25"
+    },
+    {
+      "id": 6,
+      "movieId": "after-en-mil-pedazos-2020",
+      "title": "After: En mil pedazos (2020)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-1uavqboqpybo.html",
+      "url": [
+        "https://vimeos.net/embed-1uavqboqpybo.html"
+      ],
+      "poster": "https://i0.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2020/07/after_en_mil_pedazos_7594-scaled.jpg?resize=1792%2C2560&ssl=1",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:26"
+    },
+    {
+      "id": 7,
+      "movieId": "after-almas-perdidas-2021",
+      "title": "After: Almas Perdidas (2021)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-azfgujw1zr32.html",
+      "url": [
+        "https://vimeos.net/embed-azfgujw1zr32.html"
+      ],
+      "poster": "https://mx.web.img3.acsta.net/pictures/22/01/17/21/53/1388304.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:27"
+    },
+    {
+      "id": 8,
+      "movieId": "after-amor-infinito-2022",
+      "title": "After: Amor Infinito (2022)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-5cp5sc098x0x.html",
+      "url": [
+        "https://vimeos.net/embed-5cp5sc098x0x.html"
+      ],
+      "poster": "https://image.tmdb.org/t/p/original/A9WA2sAFYzx8VBAzRLVWKjPhLSp.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:28"
+    },
+    {
+      "id": 9,
+      "movieId": "after-para-siempre-2023",
+      "title": "After: Para siempre (2023)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-fn7t5v8obwl8.html",
+      "url": [
+        "https://vimeos.net/embed-fn7t5v8obwl8.html"
+      ],
+      "poster": "https://cdn.discordapp.com/attachments/1549186808208826437/1558190230618509482/Imagen_de_ChatGPT_9_oct_2026_15_51_28.png?ex=6aca893c&is=6ac937bc&hm=cc47003f0a0635b33e98c2212c04f437bb06b447e23a9904b5c0181adb098781&",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:29"
+    },
+    {
+      "id": 10,
+      "movieId": "a-traves-del-mar-2023",
+      "title": "A través del mar (2023)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-k8frdogvc0vc.html",
+      "url": [
+        "https://vimeos.net/embed-k8frdogvc0vc.html"
+      ],
+      "poster": "https://resizing.flixster.com/keU7iSCqUD_aUJn_UPS26C9TW64%3D/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzAxMmNlNzU2LTcyZTMtNGJmOS1iZDZiLTM1NmQ3ODhhZmI4Mi5qcGc%3D",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:30"
+    },
+    {
+      "id": 11,
+      "movieId": "a-traves-de-tu-mirada-3-a-traves-de-tu-mirada-2024",
+      "title": "A Través de tu Mirada 3: A través de tu mirada (2024)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-p7u33gwth58r.html",
+      "url": [
+        "https://vimeos.net/embed-p7u33gwth58r.html"
+      ],
+      "poster": "https://image.film.at/images/cfs_2_3_large/8546698/oW5QD6b0z21x7ngAi5Fs6T23k0x.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:31"
+    },
+    {
+      "id": 12,
+      "movieId": "orgullo-y-prejuicio-2005",
+      "title": "Orgullo y Prejuicio (2005)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-lzmh38ojay14.html",
+      "url": "https://vimeos.net/embed-lzmh38ojay14.html",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjBlODgwZWEtODcxMi00OTY5LWEyOTItODE2MDBjZjU0ZDU3XkEyXkFqcGc@._V1_.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:32"
+    },
+    {
+      "id": 13,
+      "movieId": "mala-influencia-2025",
+      "title": "Mala influencia (2025)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-obchgwnnnh5e.html",
+      "url": [
+        "https://vimeos.net/embed-obchgwnnnh5e.html"
+      ],
+      "poster": "https://image.tmdb.org/t/p/original/fwCf4zac2KSz955tBHvwppsRMGF.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:33"
+    },
+    {
+      "id": 14,
+      "movieId": "quedate-2022",
+      "title": "Quédate (2022)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-ppy4k5llnrii.html",
+      "url": [
+        "https://vimeos.net/embed-ppy4k5llnrii.html"
+      ],
+      "poster": "https://images.plex.tv/photo?scale=1&size=large-1920&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F594eCLK3Xvod0w41UGqax9K1keD.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:34"
+    },
+    {
+      "id": 15,
+      "movieId": "newness-2017",
+      "title": "Newness (2017)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-htktzrbm5ng8.html",
+      "url": [
+        "https://vimeos.net/embed-htktzrbm5ng8.html"
+      ],
+      "poster": "https://popcornusa.s3.amazonaws.com/movies/650/6652-13089-Newness.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:35"
+    },
+    {
+      "id": 16,
+      "movieId": "violet-y-finch-2020",
+      "title": "Violet y Finch (2020)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-r7ycp4sf68zi.html",
+      "url": [
+        "https://vimeos.net/embed-r7ycp4sf68zi.html"
+      ],
+      "poster": "https://image.tmdb.org/t/p/original/ahxc3s9lAEcW6a1KJIiqCsQHMYH.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:36"
+    },
+    {
+      "id": 17,
+      "movieId": "yo-antes-de-ti-2016",
+      "title": "Yo Antes de Ti (2016)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-u9mzox35tjjx.html",
+      "url": [
+        "https://vimeos.net/embed-u9mzox35tjjx.html"
+      ],
+      "poster": "https://image.tmdb.org/t/p/original/vVIDt9FjuTLbXeuc2mJRYnqMh1F.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:37"
+    },
+    {
+      "id": 18,
+      "movieId": "mi-ano-en-oxford-2025",
+      "title": "Mi año en Oxford (2025)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-ra3j25y8mxpe.html",
+      "url": [
+        "https://vimeos.net/embed-ra3j25y8mxpe.html"
+      ],
+      "poster": "https://www.cinema.de/sites/default/files/styles/schema_org/public/sync/img.tvspielfilm.de/ff/2e/fe/686e61e40e99a401dafe2eff.jpeg?itok=yEEGGPJq",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:38"
+    },
+    {
+      "id": 19,
+      "movieId": "el-diario-de-la-princesa-2001",
+      "title": "El Diario De La Princesa (2001)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-roenfddghs6j.html",
+      "url": "https://vimeos.net/embed-roenfddghs6j.html",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjI1YmYxMjMtYzJmZC00ZjM0LTljNjMtN2EyZjkxMzE0YzY0XkEyXkFqcGc@._V1_.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:39"
+    },
+    {
+      "id": 20,
+      "movieId": "el-diario-de-la-princesa-2-2004",
+      "title": "El Diario De La Princesa 2 (2004)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-8yy541kr1634.html",
+      "url": [
+        "https://vimeos.net/embed-8yy541kr1634.html"
+      ],
+      "poster": "https://vignette2.wikia.nocookie.net/doblaje/images/2/2e/ThePrincessDiaries2.jpg/revision/latest?cb=20091230143632&path-prefix=es",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:40"
+    },
+    {
+      "id": 21,
+      "movieId": "snack-shack-2024",
+      "title": "Snack Shack (2024)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-kkaeg3y154vb.html",
+      "url": [
+        "https://vimeos.net/embed-kkaeg3y154vb.html"
+      ],
+      "poster": "https://image.tmdb.org/t/p/original/vdMQAIlVqsUVfYXR1JfcIIzzqxX.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:41"
+    },
+    {
+      "id": 22,
+      "movieId": "solo-amigos-2013",
+      "title": "¿Sólo Amigos? (2013)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-si3uik3yp1m3.html",
+      "url": [
+        "https://vimeos.net/embed-si3uik3yp1m3.html"
+      ],
+      "poster": "https://4.bp.blogspot.com/-YVcziQ6DfgM/U-VXzItd3bI/AAAAAAAAeIE/npfP3iFEMGw/s1600/SoloAmigos_ARG-17.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:42"
+    },
+    {
+      "id": 23,
+      "movieId": "primer-amor-2022",
+      "title": "Primer Amor (2022)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-3pxwxj0q4ub1.html",
+      "url": [
+        "https://vimeos.net/embed-3pxwxj0q4ub1.html"
+      ],
+      "poster": "https://media.diariouno.com.ar/p/d434604d120775fce6374f8e15af9220/adjuntos/298/imagenes/009/242/0009242039/1200x0/smart/amazon-prime-video-primer-amorjpg.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:43"
+    },
+    {
+      "id": 24,
+      "movieId": "el-gran-gatsby-2013",
+      "title": "El gran Gatsby (2013)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-e663e8i0orde.html",
+      "url": [
+        "https://vimeos.net/embed-e663e8i0orde.html"
+      ],
+      "poster": "https://pics.filmaffinity.com/El_gran_Gatsby-112653276-large.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:44"
+    },
+    {
+      "id": 25,
+      "movieId": "la-laguna-azul-el-despertar-2012",
+      "title": "La laguna azul: El despertar (2012)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-x9232quxbu95.html",
+      "url": [
+        "https://vimeos.net/embed-x9232quxbu95.html"
+      ],
+      "poster": "https://image.tmdb.org/t/p/w500/9qiDFSGtMJL6nyOL6KGgEz2xsm8.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:45"
+    },
+    {
+      "id": 26,
+      "movieId": "pideme-lo-que-quieras-2024",
+      "title": "Pídeme lo que quieras (2024)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-jos3jun8ifim.html",
+      "url": [
+        "https://vimeos.net/embed-jos3jun8ifim.html"
+      ],
+      "poster": "https://image.pmgstatic.com/cache/resized/w936/files/images/film/posters/169/330/169330025_p4w46q.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:46"
+    },
+    {
+      "id": 1,
+      "movieId": "la-cumbre-escarlata-2015",
+      "title": "La Cumbre Escarlata (2015)",
+      "description": "",
+      "category": "terror",
+      "videoUrl": "https://vimeos.net/embed-r5bxdu7kqxfn.html",
+      "url": [
+        "https://vimeos.net/embed-r5bxdu7kqxfn.html"
+      ],
+      "poster": "https://cdn.discordapp.com/attachments/1549186808208826437/1558190230618509482/Imagen_de_ChatGPT_9_oct_2026_15_51_28.png?ex=6aca893c&is=6ac937bc&hm=cc47003f0a0635b33e98c2212c04f437bb06b447e23a9904b5c0181adb098781&",
+      "type": "movie",
+      "categoryName": "Terror",
+      "adminKey": "local:47"
+    },
+    {
+      "id": 1,
+      "movieId": "la-estafa-maestra-2003",
+      "title": "La Estafa Maestra (2003)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-u5vyyv2oc6ds.html",
+      "url": [
+        "https://vimeos.net/embed-u5vyyv2oc6ds.html"
+      ],
+      "poster": "https://static.wixstatic.com/media/d9f6ab_53cbf1fd2af244fd8388233b2416f8ed~mv2.jpg/v1/fill/w_568%2Ch_1012%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01%2Cenc_avif%2Cquality_auto/d9f6ab_53cbf1fd2af244fd8388233b2416f8ed~mv2.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:48"
+    },
+    {
+      "id": 2,
+      "movieId": "los-indestructibles-2010",
+      "title": "Los indestructibles (2010)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-ls9t3criq2f4.html",
+      "url": [
+        "https://vimeos.net/embed-ls9t3criq2f4.html"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDExNzk4ODgtMWJjNi00NGE2LTlhMTMtZTU4NTA4Y2JjN2FmXkEyXkFqcGc%40._V1_.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:49"
+    },
+    {
+      "id": 3,
+      "movieId": "rapidos-y-furiosos-x-2023",
+      "title": "Rápidos y furiosos X (2023)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-ib4j9frlk3bi.html",
+      "url": [
+        "https://vimeos.net/embed-ib4j9frlk3bi.html"
+      ],
+      "poster": "https://cdn.discordapp.com/attachments/1549186808208826437/1558190230618509482/Imagen_de_ChatGPT_9_oct_2026_15_51_28.png?ex=6aca893c&is=6ac937bc&hm=cc47003f0a0635b33e98c2212c04f437bb06b447e23a9904b5c0181adb098781&",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:50"
+    },
+    {
+      "id": 4,
+      "movieId": "rapidos-y-furiosos-8-2017",
+      "title": "Rápidos y furiosos 8 (2017)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-agc71ueb74kk.html",
+      "url": [
+        "https://vimeos.net/embed-agc71ueb74kk.html"
+      ],
+      "poster": "https://cdn.shopify.com/s/files/1/0969/9128/products/Fast_Furious_8_-_Fate_Of_The_Furious_-_Tallenge_Hollywood_Action_Movie_Poster_2acd702a-1678-47fc-b5c9-c20a9cdba55c.jpg?v=1582543301",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:51"
+    },
+    {
+      "id": 5,
+      "movieId": "rapidos-y-furiosos-hobbs-y-shaw-2019",
+      "title": "Rápidos y Furiosos: Hobbs y Shaw (2019)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-rbzx10qkkjrb.html",
+      "url": [
+        "https://vimeos.net/embed-rbzx10qkkjrb.html"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BNWNjZTBhNGYtNWYxNS00YzhhLWI3NTMtYjhhYzcyOWZjMzM4XkEyXkFqcGc%40._V1_.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:52"
+    },
+    {
+      "id": 6,
+      "movieId": "los-indestructibles-4-2023",
+      "title": "Los indestructibles 4 (2023)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-j8bmnzihhl7f.html",
+      "url": [
+        "https://vimeos.net/embed-j8bmnzihhl7f.html"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTNkYjc5MjQtZjE1NC00OTM2LTg2ZWQtNDBkYmU2NmQyMjFhXkEyXkFqcGc%40._V1_.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:53"
+    },
+    {
+      "id": 7,
+      "movieId": "rapidos-y-furiosos-7-2015",
+      "title": "Rápidos y Furiosos 7 (2015)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-5nlmm03vop49.html",
+      "url": [
+        "https://vimeos.net/embed-5nlmm03vop49.html"
+      ],
+      "poster": "https://assets.st-note.com/img/1769353561-w6gsOoybKL2nR40tJuW7zXiq.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:54"
+    },
+    {
+      "id": 8,
+      "movieId": "los-indestructibles-3-2014",
+      "title": "Los indestructibles 3 (2014)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-t4ob1gk3jfv8.html",
+      "url": [
+        "https://vimeos.net/embed-t4ob1gk3jfv8.html"
+      ],
+      "poster": "https://2.bp.blogspot.com/--OuV1Qhk3To/U_CKQ0DJaYI/AAAAAAAAAhI/KN5EweO8ML8/s1600/INDESTRUCTIBLES%2B3.png",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:55"
+    },
+    {
+      "id": 9,
+      "movieId": "los-indestructibles-2-2012",
+      "title": "Los indestructibles 2 (2012)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-jb6fwr2cqtc2.html",
+      "url": [
+        "https://vimeos.net/embed-jb6fwr2cqtc2.html"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BMWQ1ZTIxOTctMjM2Ni00MTI2LTkwMWItZWUxNmQ2MTNhNzk0XkEyXkFqcGc%40._V1_.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:56"
+    },
+    {
+      "id": 10,
+      "movieId": "asesinos-de-elite-2011",
+      "title": "Asesinos de Élite (2011)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-4bd733b3khvf.html",
+      "url": "https://vimeos.net/embed-4bd733b3khvf.html",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTc4MDAxMjAzNV5BMl5BanBnXkFtZTcwNTY3ODg3NQ@@._V1_.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:57"
+    },
+    {
+      "id": 11,
+      "movieId": "justicia-implacable-2021",
+      "title": "Justicia Implacable (2021)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-opyfakhda2o0.html",
+      "url": [
+        "https://vimeos.net/embed-opyfakhda2o0.html"
+      ],
+      "poster": "https://www.imagemfilmeslatam.com/micrositios/justicia-implacable/poster_oficial_alta.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:58"
+    },
+    {
+      "id": 12,
+      "movieId": "transformers-5-el-ultimo-caballero-2017",
+      "title": "Transformers 5: El Ultimo Caballero (2017)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-phmzhsq85ezu.html",
+      "url": [
+        "https://vimeos.net/embed-phmzhsq85ezu.html"
+      ],
+      "poster": "https://cinema.everyeye.it/public/immagini/10052017/transformers-the-last-knight_notizia-2.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:59"
+    },
+    {
+      "id": 13,
+      "movieId": "transformers-4-la-era-de-la-extincion-2014",
+      "title": "Transformers 4: La Era de la Extinción (2014)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-ekokiudagvm3.html",
+      "url": "https://vimeos.net/embed-ekokiudagvm3.html",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjEwNTg1MTA5Nl5BMl5BanBnXkFtZTgwOTg2OTM4MTE@._V1_.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:60"
+    },
+    {
+      "id": 14,
+      "movieId": "replicas-2018",
+      "title": "Réplicas (2018)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-v1odzxvc1get.html",
+      "url": [
+        "https://vimeos.net/embed-v1odzxvc1get.html"
+      ],
+      "poster": "https://images.justwatch.com/poster/125944535/s718/replicas.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:61"
+    },
+    {
+      "id": 15,
+      "movieId": "constantine-2005",
+      "title": "Constantine (2005)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-4hc8jin6kz8k.html",
+      "url": [
+        "https://vimeos.net/embed-4hc8jin6kz8k.html"
+      ],
+      "poster": "https://www.cinestar.de/media/cache/web_l/media/filmbilder/c/constantine/constantine_poster.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:62"
+    },
+    {
+      "id": 16,
+      "movieId": "piratas-del-caribe-5-la-venganza-de-salazar-2017",
+      "title": "Piratas del Caribe 5: La Venganza de Salazar (2017)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-n6f6a6d5hq4q.html",
+      "url": [
+        "https://vimeos.net/embed-n6f6a6d5hq4q.html"
+      ],
+      "poster": "https://www.ecartelera.com/carteles/6200/6218/004.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:63"
+    },
+    {
+      "id": 17,
+      "movieId": "piratas-del-caribe-4-navegando-aguas-misteriosas-2011",
+      "title": "Piratas del Caribe 4: Navegando Aguas Misteriosas (2011)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-htiqzsbh1xzx.html",
+      "url": "https://vimeos.net/embed-htiqzsbh1xzx.html",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjE5MjkwODI3Nl5BMl5BanBnXkFtZTcwNjcwMDk4NA@@._V1_.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:64"
+    },
+    {
+      "id": 18,
+      "movieId": "piratas-del-caribe-3-en-el-fin-del-mundo-2007",
+      "title": "Piratas del Caribe 3: En el Fin del Mundo (2007)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-57we1k9002vs.html",
+      "url": [
+        "https://vimeos.net/embed-57we1k9002vs.html"
+      ],
+      "poster": "https://cartelera.elpais.com/assets/uploads/2021/06/18030111/C_01530.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:65"
+    },
+    {
+      "id": 19,
+      "movieId": "piratas-del-caribe-2-el-cofre-de-la-muerte-2006",
+      "title": "Piratas del Caribe 2: El Cofre de la Muerte (2006)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-8u1mbztdg6eu.html",
+      "url": [
+        "https://vimeos.net/embed-8u1mbztdg6eu.html"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDMyY2JiZWUtYTYxZS00Nzg1LTljNzQtYTgzNTcyNDFiODg1XkEyXkFqcGc%40._V1_.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:66"
+    },
+    {
+      "id": 20,
+      "movieId": "piratas-del-caribe-la-maldicion-del-perla-negra-2003",
+      "title": "Piratas del Caribe: La Maldición del Perla Negra (2003)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-zrz58nx7jyrl.html",
+      "url": "https://vimeos.net/embed-zrz58nx7jyrl.html",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOWQzNjMzZmUtYmM5OS00NmFmLWE0NzktZGI0YmIwOWZiMTM3XkEyXkFqcGc@._V1_.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:67"
+    },
+    {
+      "id": 21,
+      "movieId": "deadpool-2-2018",
+      "title": "Deadpool 2 (2018)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-q8qaw1xrw7i4.html",
+      "url": [
+        "https://vimeos.net/embed-q8qaw1xrw7i4.html"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BMGQ4NGZhN2MtNDI3MS00MGE2LWI2NjUtODA2YzRhNDFhMDdiXkEyXkFqcGc%40._V1_.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:68"
+    },
+    {
+      "id": 22,
+      "movieId": "deadpool-wolverine-2024",
+      "title": "Deadpool & Wolverine (2024)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-tmbjqufb955w.html",
+      "url": [
+        "https://vimeos.net/embed-tmbjqufb955w.html"
+      ],
+      "poster": "https://artofthemovies.co.uk/cdn/shop/files/deadpool_and_wolverine_advance_BM16122_B.jpg?v=1736256260",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:69"
+    },
+    {
+      "id": 23,
+      "movieId": "deadpool-2016",
+      "title": "Deadpool (2016)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-eqs0mdqw1s2a.html",
+      "url": [
+        "https://vimeos.net/embed-eqs0mdqw1s2a.html"
+      ],
+      "poster": "https://kritikanstvo.ru/movies/d/deadpool/posters/deadpool_200845.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:70"
+    },
+    {
+      "id": 1,
+      "movieId": "rango-2011",
+      "title": "Rango (2011)",
+      "description": "",
+      "category": "animacion",
+      "videoUrl": "https://vimeos.net/embed-ic43fav9tkwl.html",
+      "url": "https://vimeos.net/embed-ic43fav9tkwl.html",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTc4NjEyODE1OV5BMl5BanBnXkFtZTcwMjYzNTkxNA@@._V1_FMjpg_UX1000_.jpg",
+      "type": "movie",
+      "categoryName": "Animación",
+      "adminKey": "local:71"
+    },
+    {
+      "id": 1,
+      "movieId": "guerra-de-papas-2-2017",
+      "title": "Guerra de Papás 2 (2017)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-uzk2aiouo5s8.html",
+      "url": [
+        "https://vimeos.net/embed-uzk2aiouo5s8.html"
+      ],
+      "poster": "https://www.aceshowbiz.com/images/still/daddy-s-home-2-poster02.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:72"
+    },
+    {
+      "id": 2,
+      "movieId": "guerra-de-papas-2015",
+      "title": "Guerra de Papás (2015)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-osl42yxxf0rc.html",
+      "url": [
+        "https://vimeos.net/embed-osl42yxxf0rc.html"
+      ],
+      "poster": "https://mx.web.img2.acsta.net/pictures/18/01/23/04/21/1718439.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:73"
+    },
+    {
+      "id": 3,
+      "movieId": "ted-2-2015",
+      "title": "Ted 2 (2015)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-jlim2kn823lq.html",
+      "url": [
+        "https://vimeos.net/embed-jlim2kn823lq.html"
+      ],
+      "poster": "https://www.impawards.com/2015/posters/ted_two_ver6_xlg.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:74"
+    },
+    {
+      "id": 4,
+      "movieId": "ted-2012",
+      "title": "Ted (2012)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-7f9rmyarlq89.html",
+      "url": [
+        "https://vimeos.net/embed-7f9rmyarlq89.html"
+      ],
+      "poster": "https://d.ibtimes.com/en/full/710262/ted-movie-promotional-poster.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:75"
+    },
+    {
+      "id": 5,
+      "movieId": "sombras-tenebrosas-2012",
+      "title": "Sombras Tenebrosas (2012)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-zu1kil6amp2y.html",
+      "url": [
+        "https://vimeos.net/embed-zu1kil6amp2y.html"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BNDI4NjI0OTktOWVhYi00MjE0LWFkNWQtYzU4M2EyYTEzMzA0XkEyXkFqcGc%40._V1_.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:76"
+    },
+    {
+      "id": 6,
+      "movieId": "la-gran-estafa-2001",
+      "title": "La Gran Estafa (2001)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-aygw0jloamdp.html",
+      "url": [
+        "https://vimeos.net/embed-aygw0jloamdp.html"
+      ],
+      "poster": "https://i.pinimg.com/originals/75/fe/82/75fe82132a01a33e9865531f658897e7.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:77"
+    },
+    {
+      "id": 1,
+      "movieId": "vampiros-1998",
+      "title": "Vampiros (1998)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-k6g88f2qbg4l.html",
+      "url": [
+        "https://vimeos.net/embed-k6g88f2qbg4l.html"
+      ],
+      "poster": "https://images.justwatch.com/poster/254233423/s718/vampires.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:78"
+    },
+    {
+      "id": 2,
+      "movieId": "caceria-sangrienta-2024",
+      "title": "Cacería Sangrienta (2024)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-mfgq8g9pj3pd.html",
+      "url": "https://vimeos.net/embed-mfgq8g9pj3pd.html",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYmU0MThmY2QtYjM5Ni00NzMxLTk4ZDUtOTZlZmQ3Y2UzMmJkXkEyXkFqcGc@._V1_.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:79"
+    },
+    {
+      "id": 3,
+      "movieId": "pesadilla-jurasica-2012",
+      "title": "Pesadilla Jurásica (2012)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-qjumwuo8pqhk.html",
+      "url": [
+        "https://vimeos.net/embed-qjumwuo8pqhk.html"
+      ],
+      "poster": "https://image.tmdb.org/t/p/original/mxO3FtFtHeYLuB63fDcpfZdzcZR.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:80"
+    },
+    {
+      "id": 4,
+      "movieId": "patrulla-nocturna-2026",
+      "title": "Patrulla Nocturna (2026)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-v0v2rophvk6q.html",
+      "url": [
+        "https://vimeos.net/embed-v0v2rophvk6q.html"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzkzOTY0ZTEtMDExZS00YzVkLTk5NjgtZWIwMzVhN2M3OWQ3XkEyXkFqcGc%40._V1_.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:81"
+    },
+    {
+      "id": 5,
+      "movieId": "operation-blood-hunt-2024",
+      "title": "Operation Blood Hunt (2024)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-62cdiqs9197d.html",
+      "url": [
+        "https://vimeos.net/embed-62cdiqs9197d.html"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTY3Y2VkZmItZjNiZi00MDFlLTk4NzMtZTcwYTg2MWQ5M2VkXkEyXkFqcGc%40._V1_.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:82"
+    },
+    {
+      "id": 1,
+      "movieId": "historias-de-terror-de-vietnam-2022",
+      "title": "Historias de terror de Vietnam (2022)",
+      "description": "",
+      "category": "terror",
+      "videoUrl": "https://vimeos.net/embed-g7g5uonoh3ee.html",
+      "url": [
+        "https://vimeos.net/embed-g7g5uonoh3ee.html"
+      ],
+      "poster": "https://cdn.discordapp.com/attachments/1549186808208826437/1558190230618509482/Imagen_de_ChatGPT_9_oct_2026_15_51_28.png?ex=6aca893c&is=6ac937bc&hm=cc47003f0a0635b33e98c2212c04f437bb06b447e23a9904b5c0181adb098781&",
+      "type": "movie",
+      "categoryName": "Terror",
+      "adminKey": "local:83"
+    },
+    {
+      "id": 2,
+      "movieId": "juego-de-brujas-2024",
+      "title": "Juego de brujas (2024)",
+      "description": "",
+      "category": "terror",
+      "videoUrl": "https://vimeos.net/embed-sb17zzlvp2hc.html",
+      "url": [
+        "https://vimeos.net/embed-sb17zzlvp2hc.html"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDNiNzlkMjEtODcwNy00ZDVhLTgzOTgtODYxMGM0NzAyMTM5XkEyXkFqcGc%40._V1_.jpg",
+      "type": "movie",
+      "categoryName": "Terror",
+      "adminKey": "local:84"
+    },
+    {
+      "id": 3,
+      "movieId": "entre-los-vivos-2022",
+      "title": "Entre los vivos (2022)",
+      "description": "",
+      "category": "terror",
+      "videoUrl": "https://vimeos.net/embed-winzsq2prhwq.html",
+      "url": [
+        "https://vimeos.net/embed-winzsq2prhwq.html"
+      ],
+      "poster": "https://cdn.discordapp.com/attachments/1549186808208826437/1558190230618509482/Imagen_de_ChatGPT_9_oct_2026_15_51_28.png?ex=6aca893c&is=6ac937bc&hm=cc47003f0a0635b33e98c2212c04f437bb06b447e23a9904b5c0181adb098781&",
+      "type": "movie",
+      "categoryName": "Terror",
+      "adminKey": "local:85"
+    },
+    {
+      "id": 4,
+      "movieId": "el-grupo-2022",
+      "title": "El grupo (2022)",
+      "description": "",
+      "category": "terror",
+      "videoUrl": "https://vimeos.net/embed-vd0l2aoxap4t.html",
+      "url": [
+        "https://vimeos.net/embed-vd0l2aoxap4t.html"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BMWU1NGQyZTQtZDEyNC00NGFiLTk3ZjUtMWMwNjRhZjk1ODg4XkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
+      "type": "movie",
+      "categoryName": "Terror",
+      "adminKey": "local:86"
+    },
+    {
+      "id": 5,
+      "movieId": "el-cazador-de-espiritus-2024",
+      "title": "El cazador de espiritus (2024)",
+      "description": "",
+      "category": "terror",
+      "videoUrl": "https://vimeos.net/embed-birb8hl46uum.html",
+      "url": [
+        "https://vimeos.net/embed-birb8hl46uum.html"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BOWRlZGFmYTEtZDFlMi00YzI3LTgyODgtNjk5Mzg4Y2VlZjFhXkEyXkFqcGc%40._V1_.jpg",
+      "type": "movie",
+      "categoryName": "Terror",
+      "adminKey": "local:87"
+    },
+    {
+      "id": 6,
+      "movieId": "camara-policial-2020",
+      "title": "Cámara Policial (2020)",
+      "description": "",
+      "category": "terror",
+      "videoUrl": "https://vimeos.net/embed-txuul1g5iycj.html",
+      "url": [
+        "https://vimeos.net/embed-txuul1g5iycj.html"
+      ],
+      "poster": "https://cdn.kinocheck.com/i/w%3D1200/7kbmsqpa17.jpg",
+      "type": "movie",
+      "categoryName": "Terror",
+      "adminKey": "local:88"
+    },
+    {
+      "id": 7,
+      "movieId": "los-radley-2024",
+      "title": "Los Radley (2024)",
+      "description": "",
+      "category": "terror",
+      "videoUrl": "https://vimeos.net/embed-7q1gmqn0ffl9.html",
+      "url": [
+        "https://vimeos.net/embed-7q1gmqn0ffl9.html"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BMzEyNDFkMGEtOTgxNS00YTk2LThhNTUtZTEzMjE1MDdiOWE1XkEyXkFqcGc%40._V1_.jpg",
+      "type": "movie",
+      "categoryName": "Terror",
+      "adminKey": "local:89"
+    },
+    {
+      "id": 8,
+      "movieId": "la-leyenda-de-saint-joseph-2023",
+      "title": "La leyenda de Saint Joseph (2023)",
+      "description": "",
+      "category": "terror",
+      "videoUrl": "https://vimeos.net/embed-wy9dajqn7yqf.html",
+      "url": [
+        "https://vimeos.net/embed-wy9dajqn7yqf.html"
+      ],
+      "poster": "https://cdn.discordapp.com/attachments/1549186808208826437/1558190230618509482/Imagen_de_ChatGPT_9_oct_2026_15_51_28.png?ex=6aca893c&is=6ac937bc&hm=cc47003f0a0635b33e98c2212c04f437bb06b447e23a9904b5c0181adb098781&",
+      "type": "movie",
+      "categoryName": "Terror",
+      "adminKey": "local:90"
+    },
+    {
+      "id": 9,
+      "movieId": "cuando-empiezan-los-gritos-2021",
+      "title": "Cuando empiezan los gritos (2021)",
+      "description": "",
+      "category": "terror",
+      "videoUrl": "https://vimeos.net/embed-mi44pze8jm62.html",
+      "url": [
+        "https://vimeos.net/embed-mi44pze8jm62.html"
+      ],
+      "poster": "https://m.media-amazon.com/images/S/pv-target-images/06c1665a0c4238bc961ad5bf61cab9e204997ee8ab75eee6fb9d2078919dd286.jpg",
+      "type": "movie",
+      "categoryName": "Terror",
+      "adminKey": "local:91"
+    },
+    {
+      "id": 10,
+      "movieId": "possessor-controlador-de-mentes-2020",
+      "title": "Possessor: Controlador de mentes (2020)",
+      "description": "",
+      "category": "terror",
+      "videoUrl": "https://vimeos.net/embed-x6x4crozktd0.html",
+      "url": [
+        "https://vimeos.net/embed-x6x4crozktd0.html"
+      ],
+      "poster": "https://spice.eplus.jp/images/upfv8NBKRNaArVDp5Nt1yqtlqxsiILbEV3su23leyyFPI8RN8GhH7IKsBnBaNSZh/",
+      "type": "movie",
+      "categoryName": "Terror",
+      "adminKey": "local:92"
+    },
+    {
+      "id": 11,
+      "movieId": "asustemos-a-julie-2020",
+      "title": "Asustemos a Julie (2020)",
+      "description": "",
+      "category": "terror",
+      "videoUrl": "https://vimeos.net/embed-ab4735g6ehss.html",
+      "url": [
+        "https://vimeos.net/embed-ab4735g6ehss.html"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BY2MwYzU0YzctMjMwMy00ODhkLTliMTktZmRlZmE4Mzk5MDIyXkEyXkFqcGc%40._V1_.jpg",
+      "type": "movie",
+      "categoryName": "Terror",
+      "adminKey": "local:93"
+    },
+    {
+      "id": 12,
+      "movieId": "ritual-maldito-2021",
+      "title": "Ritual maldito (2021)",
+      "description": "",
+      "category": "terror",
+      "videoUrl": "https://vimeos.net/embed-gzwucepg63ob.html",
+      "url": [
+        "https://vimeos.net/embed-gzwucepg63ob.html"
+      ],
+      "poster": "https://pics.filmaffinity.com/The_Djinn-105585009-large.jpg",
+      "type": "movie",
+      "categoryName": "Terror",
+      "adminKey": "local:94"
+    },
+    {
+      "id": 13,
+      "movieId": "las-tias-2024",
+      "title": "Las tías (2024)",
+      "description": "",
+      "category": "terror",
+      "videoUrl": "https://vimeos.net/embed-grpk2cu86oip.html",
+      "url": [
+        "https://vimeos.net/embed-grpk2cu86oip.html"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjY2MDNkZGItMmI4Yi00Yjc3LTk2YmItN2VkYzIwM2JmMTZjXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
+      "type": "movie",
+      "categoryName": "Terror",
+      "adminKey": "local:95"
+    },
+    {
+      "id": 14,
+      "movieId": "el-despertar-del-diablo-2006",
+      "title": "El despertar del diablo (2006)",
+      "description": "",
+      "category": "terror",
+      "videoUrl": "https://vimeos.net/embed-qulhguqn7bw3.html",
+      "url": [
+        "https://vimeos.net/embed-qulhguqn7bw3.html"
+      ],
+      "poster": "https://cines.com.py/images/dinamico/peliculas/168/afiche/af168.jpg",
+      "type": "movie",
+      "categoryName": "Terror",
+      "adminKey": "local:96"
+    },
+    {
+      "id": 15,
+      "movieId": "halloween-la-noche-del-espantapajaros-2025",
+      "title": "Halloween: La noche del espantapajaros (2025)",
+      "description": "",
+      "category": "terror",
+      "videoUrl": "https://vimeos.net/embed-4x32myduv89g.html",
+      "url": [
+        "https://vimeos.net/embed-4x32myduv89g.html"
+      ],
+      "poster": "https://cinemadominicano.com/wp-content/uploads/2025/10/halloween.jpg",
+      "type": "movie",
+      "categoryName": "Terror",
+      "adminKey": "local:97"
+    },
+    {
+      "id": 16,
+      "movieId": "el-sonido-de-la-muerte-2026",
+      "title": "El sonido de la muerte (2026)",
+      "description": "",
+      "category": "terror",
+      "videoUrl": "https://vimeos.net/embed-y2b4bmk3iqti.html",
+      "url": [
+        "https://vimeos.net/embed-y2b4bmk3iqti.html"
+      ],
+      "poster": "https://image.tmdb.org/t/p/original/cApRXj6meulAQMYQrhjfVvZEItl.jpg",
+      "type": "movie",
+      "categoryName": "Terror",
+      "adminKey": "local:98"
+    },
+    {
+      "id": 17,
+      "movieId": "terror-en-shelby-oaks-2025",
+      "title": "Terror En Shelby Oaks (2025)",
+      "description": "",
+      "category": "terror",
+      "videoUrl": "https://vimeos.net/embed-q1txx3dj0dhi.html",
+      "url": [
+        "https://vimeos.net/embed-q1txx3dj0dhi.html"
+      ],
+      "poster": "https://tickets-static-content.cinepolis.com/pimcore/11179/assets/Mexico/Tickets/Movies/TerrorEnShelbyOaksSub/Es/Poster_720x1022_SO_48/resource.jpg",
+      "type": "movie",
+      "categoryName": "Terror",
+      "adminKey": "local:99"
+    },
+    {
+      "id": 18,
+      "movieId": "edificio-del-miedo-2024",
+      "title": "Edificio del Miedo (2024)",
+      "description": "",
+      "category": "terror",
+      "videoUrl": "https://vimeos.net/embed-wsogxw5ih716.html",
+      "url": [
+        "https://vimeos.net/embed-wsogxw5ih716.html"
+      ],
+      "poster": "https://images.justwatch.com/poster/343805930/s718/tenants-2024.jpg",
+      "type": "movie",
+      "categoryName": "Terror",
+      "adminKey": "local:100"
+    },
+    {
+      "id": 19,
+      "movieId": "criaturas-nocturnas-2018",
+      "title": "Criaturas nocturnas (2018)",
+      "description": "",
+      "category": "terror",
+      "videoUrl": "https://vimeos.net/embed-eml2zaqmkzye.html",
+      "url": [
+        "https://vimeos.net/embed-eml2zaqmkzye.html"
+      ],
+      "poster": "https://cdn.discordapp.com/attachments/1549186808208826437/1558190230618509482/Imagen_de_ChatGPT_9_oct_2026_15_51_28.png?ex=6aca893c&is=6ac937bc&hm=cc47003f0a0635b33e98c2212c04f437bb06b447e23a9904b5c0181adb098781&",
+      "type": "movie",
+      "categoryName": "Terror",
+      "adminKey": "local:101"
+    },
+    {
+      "id": 20,
+      "movieId": "ipossessed-2025",
+      "title": "iPossessed (2025)",
+      "description": "",
+      "category": "terror",
+      "videoUrl": "https://vimeos.net/embed-v90venfbkfvp.html",
+      "url": [
+        "https://vimeos.net/embed-v90venfbkfvp.html"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BZjljYWVmYTktZjUxMy00Yzg2LWI4MDctMDkxYzE1YWJhOTlhXkEyXkFqcGc%40._V1_.jpg",
+      "type": "movie",
+      "categoryName": "Terror",
+      "adminKey": "local:102"
+    },
+    {
+      "id": 21,
+      "movieId": "harpia-acecho-maligno-2025",
+      "title": "Harpía: Acecho maligno (2025)",
+      "description": "",
+      "category": "terror",
+      "videoUrl": "https://vimeos.net/embed-j87ydqxaoe0u.html",
+      "url": [
+        "https://vimeos.net/embed-j87ydqxaoe0u.html"
+      ],
+      "poster": "https://image.tmdb.org/t/p/original/yAm76IKDb9HO5MKtKqTh1sQZuOD.jpg",
+      "type": "movie",
+      "categoryName": "Terror",
+      "adminKey": "local:103"
+    },
+    {
+      "id": 22,
+      "movieId": "shaman-2025",
+      "title": "Shaman (2025)",
+      "description": "",
+      "category": "terror",
+      "videoUrl": "https://vimeos.net/embed-06aqalgqp9pi.html",
+      "url": [
+        "https://vimeos.net/embed-06aqalgqp9pi.html"
+      ],
+      "poster": "https://xinemas.com/data/upload/movies/2025/tgv.shaman.jpg",
+      "type": "movie",
+      "categoryName": "Terror",
+      "adminKey": "local:104"
+    },
+    {
+      "id": 23,
+      "movieId": "v-h-s-mas-alla-2024",
+      "title": "V/H/S: Más allá (2024)",
+      "description": "",
+      "category": "terror",
+      "videoUrl": "https://vimeos.net/embed-fk3x22z0akso.html",
+      "url": [
+        "https://vimeos.net/embed-fk3x22z0akso.html"
+      ],
+      "poster": "https://m.media-amazon.com/images/S/pv-target-images/db2418464048c1bab666e3efa2b5efc0d314f17d31b28c9f3b3f11939fdb0196.jpg",
+      "type": "movie",
+      "categoryName": "Terror",
+      "adminKey": "local:105"
+    },
+    {
+      "id": 1,
+      "movieId": "doctor-strange-en-el-multiverso-de-la-locura-2022",
+      "title": "Doctor Strange en el multiverso de la locura (2022)",
+      "description": "",
+      "category": "mcu",
+      "videoUrl": "https://vimeos.net/embed-220n3ukcxzo5.html",
+      "url": [
+        "https://vimeos.net/embed-220n3ukcxzo5.html"
+      ],
+      "poster": "https://www.revistaestilo.net/binrepository/933x1400/0c0/0d0/none/179468266/QIQX/doctor-strange-en-el-multiverso-de-la_1463315_20220505105330.jpg",
+      "categoryName": "Universo Cinematográfico de Marvel",
+      "type": "movie",
+      "adminKey": "local:106"
+    },
+    {
+      "id": 2,
+      "movieId": "avengers-infinity-war-2018",
+      "title": "Avengers: Infinity War (2018)",
+      "description": "",
+      "category": "mcu",
+      "videoUrl": "https://vimeos.net/embed-xzvl73goar99.html",
+      "url": [
+        "https://vimeos.net/embed-xzvl73goar99.html"
+      ],
+      "poster": "https://i.etsystatic.com/37166133/r/il/60f034/4087791906/il_fullxfull.4087791906_jcbj.jpg",
+      "categoryName": "Universo Cinematográfico de Marvel",
+      "type": "movie",
+      "adminKey": "local:107"
+    },
+    {
+      "id": 3,
+      "movieId": "avengers-endgame-2019",
+      "title": "Avengers: Endgame (2019)",
+      "description": "",
+      "category": "mcu",
+      "videoUrl": "https://vimeos.net/embed-50qhi0fy2kpy.html",
+      "url": [
+        "https://vimeos.net/embed-50qhi0fy2kpy.html"
+      ],
+      "poster": "https://filmartgallery.com/cdn/shop/files/Avengers-Endgame-Official-Movie-Poster-Vintage-Movie-Poster-Original_c013767b_2000x.jpg?v=1771944029",
+      "categoryName": "Universo Cinematográfico de Marvel",
+      "type": "movie",
+      "adminKey": "local:108"
+    },
+    {
+      "id": 4,
+      "movieId": "avengers-2-era-de-ultron-2015",
+      "title": "Avengers 2: Era de Ultrón (2015)",
+      "description": "",
+      "category": "mcu",
+      "videoUrl": "https://vimeos.net/embed-ynwa712chuak.html",
+      "url": "https://vimeos.net/embed-ynwa712chuak.html",
+      "poster": "https://i0.wp.com/unlibroparaestanoche.com/wp-content/uploads/2015/05/los-vengadores-2-la-era-de-ultron-poster.jpg?ssl=1",
+      "categoryName": "Universo Cinematográfico de Marvel",
+      "type": "movie",
+      "adminKey": "local:109"
+    },
+    {
+      "id": 5,
+      "movieId": "avengers-los-vengadores-2012",
+      "title": "Avengers: Los Vengadores (2012)",
+      "description": "",
+      "category": "mcu",
+      "videoUrl": "https://vimeos.net/embed-pji0xu5w5y46.html",
+      "url": [
+        "https://vimeos.net/embed-pji0xu5w5y46.html"
+      ],
+      "poster": "https://mx.web.img3.acsta.net/pictures/14/03/10/10/35/587504.jpg",
+      "categoryName": "Universo Cinematográfico de Marvel",
+      "type": "movie",
+      "adminKey": "local:110"
+    },
+    {
+      "id": 6,
+      "movieId": "spider-man-un-nuevo-dia-2026",
+      "title": "Spider-Man: Un nuevo día (2026)",
+      "description": "",
+      "category": "mcu",
+      "videoUrl": "https://vimeos.net/embed-2nulhg4mnuz7.html",
+      "url": [
+        "https://vimeos.net/embed-2nulhg4mnuz7.html"
+      ],
+      "poster": "https://preview.citicinemas.com/_next/image?q=75&url=https%3A%2F%2Fstorage.googleapis.com%2Fciticinemas-store%2FMovie-2267%2Fposter%2FmuyFcE5uGr8y%2FBRAND+NEW+DAY.jpg&w=1080",
+      "categoryName": "Universo Cinematográfico de Marvel",
+      "type": "movie",
+      "adminKey": "local:111"
+    },
+    {
+      "id": 7,
+      "movieId": "spider-man-2-lejos-de-casa-2019",
+      "title": "Spider-Man 2: Lejos de Casa (2019)",
+      "description": "",
+      "category": "mcu",
+      "videoUrl": "https://vimeos.net/embed-s4nsno4cpt5v.html",
+      "url": [
+        "https://vimeos.net/embed-s4nsno4cpt5v.html"
+      ],
+      "poster": "https://www.movieposters.com/cdn/shop/files/scan_6e8dfceb-e09d-45e4-88bd-8552b279928b_1024x1024.jpg?v=1772731474",
+      "categoryName": "Universo Cinematográfico de Marvel",
+      "type": "movie",
+      "adminKey": "local:112"
+    },
+    {
+      "id": 8,
+      "movieId": "spider-man-de-regreso-a-casa-2017",
+      "title": "Spider-Man: De Regreso a Casa (2017)",
+      "description": "",
+      "category": "mcu",
+      "videoUrl": "https://vimeos.net/embed-12dfqiecslfk.html",
+      "url": [
+        "https://vimeos.net/embed-12dfqiecslfk.html"
+      ],
+      "poster": "https://4.bp.blogspot.com/-st4ayewh4eA/WkZJEMIQfVI/AAAAAAAAc90/5Yjk6oXSV9A8W8HHmSMXZieudzcSQkx4wCLcBGAs/s1600/Spider_Man_rs.jpg.jpg",
+      "categoryName": "Universo Cinematográfico de Marvel",
+      "type": "movie",
+      "adminKey": "local:113"
+    },
+    {
+      "id": 3,
+      "movieId": "wasabi-el-trato-sucio-de-la-mafia-2001",
+      "title": "Wasabi: El Trato Sucio de la Mafia (2001)",
+      "description": "",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-siscn8gf53a6.html",
+      "url": [
+        "https://vimeos.net/embed-siscn8gf53a6.html"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BZmZiMzFiZGMtZTFiZC00NGJkLThiYjAtMDczZWM5YWRlYmYxXkEyXkFqcGc%40._V1_FMjpg_UX1000_.jpg",
+      "type": "movie",
+      "categoryName": "Acción",
+      "adminKey": "local:114"
+    },
+    {
+      "id": 1,
+      "movieId": "la-hipotesis-del-amor-2026",
+      "title": "La hipótesis del amor (2026)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-d15lpnn0c64w.html",
+      "url": [
+        "https://vimeos.net/embed-d15lpnn0c64w.html"
+      ],
+      "poster": "https://filmo.to/img/poster/desktop/P5U7SZGR7vfYRQTcMICt6tvO?format=webp",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:115"
+    },
+    {
+      "id": 2,
+      "movieId": "hombres-de-mentes-2009",
+      "title": "Hombres de mentes (2009)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-8jia80x46m7e.html",
+      "url": [
+        "https://vimeos.net/embed-8jia80x46m7e.html"
+      ],
+      "poster": "https://cdn.discordapp.com/attachments/1549186808208826437/1558190230618509482/Imagen_de_ChatGPT_9_oct_2026_15_51_28.png?ex=6aca893c&is=6ac937bc&hm=cc47003f0a0635b33e98c2212c04f437bb06b447e23a9904b5c0181adb098781&",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:116"
+    },
+    {
+      "id": 3,
+      "movieId": "mniej-obcy-2026",
+      "title": "Mniej obcy (2026)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-p4pnkvi688f7.html",
+      "url": [
+        "https://vimeos.net/embed-p4pnkvi688f7.html"
+      ],
+      "poster": "https://fwcdn.pl/fpo/12/53/10091253/8266924.8.webp",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:117"
+    },
+    {
+      "id": 4,
+      "movieId": "unabomber-2026",
+      "title": "UNABOMBER (2026)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-yupmsj9kuxqq.html",
+      "url": [
+        "https://vimeos.net/embed-yupmsj9kuxqq.html"
+      ],
+      "poster": "https://img.championat.com/xvAbILnUgogltikZct-01kYkYEJ6NiPDpFLooFWT-mY/p%28%29/i/k/y/1790312244195531717.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:118"
+    },
+    {
+      "id": 5,
+      "movieId": "viviendo-con-mi-ex-2006",
+      "title": "Viviendo con mi ex (2006)",
+      "description": "",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-9zmgssyjgree.html",
+      "url": [
+        "https://vimeos.net/embed-9zmgssyjgree.html"
+      ],
+      "poster": "https://image.tmdb.org/t/p/original/n5gf9Eusl73xEmxhCv2Y1snpNN9.jpg",
+      "type": "movie",
+      "categoryName": "general",
+      "adminKey": "local:119"
+    },
+    {
+      "id": 1,
+      "serieId": "pablo-escobar-the-drug-lord-2012",
+      "title": "Pablo Escobar, el patrón del mal (2012)",
+      "description": "",
+      "category": "general",
+      "episodios": [
+        {
+          "capitulo": "Episodio 1",
+          "videoUrl": "https://vimeos.net/embed-fi9vm8efxjdh.html"
+        },
+        {
+          "capitulo": "Episodio 2",
+          "videoUrl": "https://vimeos.net/embed-d1ptyu4k4rwb.html"
+        },
+        {
+          "capitulo": "Episodio 3",
+          "videoUrl": "https://vimeos.net/la/style.css?v=v1"
+        },
+        {
+          "capitulo": "Episodio 4",
+          "videoUrl": "https://vimeos.net/js/xupload.js"
+        },
+        {
+          "capitulo": "Episodio 5",
+          "videoUrl": "https://vimeos.net/player/jw8/jwplayer.js?v=x"
+        },
+        {
+          "capitulo": "Episodio 6",
+          "videoUrl": "https://vimeos.net/js/localstorage-slim.js"
+        },
+        {
+          "capitulo": "Episodio 7",
+          "videoUrl": "https://s10.vimeos.net/i/03/00012/d1ptyu4k4rwb.jpg"
+        },
+        {
+          "capitulo": "Episodio 8",
+          "videoUrl": "https://vimeos.net/js/pop.js"
+        },
+        {
+          "capitulo": "Episodio 9",
+          "videoUrl": "https://vimeos.net/xd/xd.js?v=12345s"
+        },
+        {
+          "capitulo": "Episodio 10",
+          "videoUrl": "https://vimeos.net/xd/xd.css?v=12"
+        },
+        {
+          "capitulo": "Episodio 11",
+          "videoUrl": "https://anal.vimeos.net/ssr.js?v4"
+        },
+        {
+          "capitulo": "Episodio 12",
+          "videoUrl": "https://vimeos.net/player/jw8/vast.js"
+        },
+        {
+          "capitulo": "Episodio 13",
+          "videoUrl": "https://vimeos.net/player/jw8/jwplayer.core.controls.js"
+        },
+        {
+          "capitulo": "Episodio 14",
+          "videoUrl": "https://vimeos.net/css2/jw8-theme.css?555"
+        },
+        {
+          "capitulo": "Episodio 15",
+          "videoUrl": "https://vimeos.net/player/jw8/translations/es.json"
+        },
+        {
+          "capitulo": "Episodio 16",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.hlsjs.js"
+        },
+        {
+          "capitulo": "Episodio 17",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581707&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 18",
+          "videoUrl": "https://s10.vimeos.net/vtt/03/00012/d1ptyu4k4rwb_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 19",
+          "videoUrl": "https://s10.vimeos.net/vtt/03/00012/d1ptyu4k4rwb_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 20",
+          "videoUrl": "https://vimeos.net/srt/empty.srt"
+        },
+        {
+          "capitulo": "Episodio 21",
+          "videoUrl": "https://vimeos.net/player/jw8/polyfills.webvtt.js"
+        },
+        {
+          "capitulo": "Episodio 22",
+          "videoUrl": "https://vimeos.net/logo-v.png"
+        },
+        {
+          "capitulo": "Episodio 23",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.cast.js"
+        },
+        {
+          "capitulo": "Episodio 24",
+          "videoUrl": "https://vimeos.net/cdn-cgi/rum?"
+        },
+        {
+          "capitulo": "Episodio 25",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.html5.js"
+        },
+        {
+          "capitulo": "Episodio 26",
+          "videoUrl": "https://vimeos.net/player/jw8/vttparser.js"
+        },
+        {
+          "capitulo": "Episodio 27",
+          "videoUrl": "https://vimeos.net/embed-f30q3t3mz5ms.html"
+        },
+        {
+          "capitulo": "Episodio 28",
+          "videoUrl": "https://s9.vimeos.net/i/03/00012/f30q3t3mz5ms.jpg"
+        },
+        {
+          "capitulo": "Episodio 29",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581711&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 30",
+          "videoUrl": "https://s9.vimeos.net/vtt/03/00012/f30q3t3mz5ms_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 31",
+          "videoUrl": "https://s9.vimeos.net/vtt/03/00012/f30q3t3mz5ms_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 32",
+          "videoUrl": "blob:https://vimeos.net/5cde8698-e58e-497c-9c3e-43234ff43fc9"
+        },
+        {
+          "capitulo": "Episodio 33",
+          "videoUrl": "https://vimeos.net/embed-vkcqn9q3u21j.html"
+        },
+        {
+          "capitulo": "Episodio 34",
+          "videoUrl": "https://s10.vimeos.net/i/02/00012/vkcqn9q3u21j.jpg"
+        },
+        {
+          "capitulo": "Episodio 35",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581715&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 36",
+          "videoUrl": "https://s10.vimeos.net/vtt/02/00012/vkcqn9q3u21j_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 37",
+          "videoUrl": "https://s10.vimeos.net/vtt/02/00012/vkcqn9q3u21j_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 38",
+          "videoUrl": "blob:https://vimeos.net/a8176b10-2570-4c01-95df-bfc4e0300517"
+        },
+        {
+          "capitulo": "Episodio 39",
+          "videoUrl": "https://vimeos.net/embed-coshttetqs2m.html"
+        },
+        {
+          "capitulo": "Episodio 40",
+          "videoUrl": "https://s10.vimeos.net/i/03/00012/coshttetqs2m.jpg"
+        },
+        {
+          "capitulo": "Episodio 41",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581719&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 42",
+          "videoUrl": "https://s10.vimeos.net/vtt/03/00012/coshttetqs2m_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 43",
+          "videoUrl": "https://s10.vimeos.net/vtt/03/00012/coshttetqs2m_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 44",
+          "videoUrl": "blob:https://vimeos.net/68bd7e61-85a5-4bec-94d3-7d07ba633ffb"
+        },
+        {
+          "capitulo": "Episodio 45",
+          "videoUrl": "https://vimeos.net/embed-97j0vps4wz4d.html"
+        },
+        {
+          "capitulo": "Episodio 46",
+          "videoUrl": "https://s12.vimeos.net/i/03/00012/97j0vps4wz4d.jpg"
+        },
+        {
+          "capitulo": "Episodio 47",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581723&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 48",
+          "videoUrl": "https://s12.vimeos.net/vtt/03/00012/97j0vps4wz4d_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 49",
+          "videoUrl": "https://s12.vimeos.net/vtt/03/00012/97j0vps4wz4d_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 50",
+          "videoUrl": "blob:https://vimeos.net/13eccba6-c2bc-40ef-9bea-d281809335d8"
+        }
+      ],
+      "poster": "https://cdn.discordapp.com/attachments/1549186808208826437/1558190230618509482/Imagen_de_ChatGPT_9_oct_2026_15_51_28.png?ex=6aca893c&is=6ac937bc&hm=cc47003f0a0635b33e98c2212c04f437bb06b447e23a9904b5c0181adb098781&",
+      "type": "series",
+      "categoryName": "general",
+      "videoUrl": "https://vimeos.net/embed-fi9vm8efxjdh.html",
+      "adminKey": "local:120"
+    },
+    {
+      "id": 2,
+      "serieId": "pablo-escobar-the-drug-lord-2012",
+      "title": "Pablo Escobar, el patrón del mal (2012)",
+      "description": "",
+      "category": "general",
+      "episodios": [
+        {
+          "capitulo": "Episodio 1",
+          "videoUrl": "https://vimeos.net/embed-nhp0jlquhd0f.html"
+        },
+        {
+          "capitulo": "Episodio 2",
+          "videoUrl": "https://vimeos.net/la/style.css?v=v1"
+        },
+        {
+          "capitulo": "Episodio 3",
+          "videoUrl": "https://vimeos.net/js/xupload.js"
+        },
+        {
+          "capitulo": "Episodio 4",
+          "videoUrl": "https://vimeos.net/player/jw8/jwplayer.js?v=x"
+        },
+        {
+          "capitulo": "Episodio 5",
+          "videoUrl": "https://vimeos.net/js/localstorage-slim.js"
+        },
+        {
+          "capitulo": "Episodio 6",
+          "videoUrl": "https://s11.vimeos.net/i/02/00012/nhp0jlquhd0f.jpg"
+        },
+        {
+          "capitulo": "Episodio 7",
+          "videoUrl": "https://vimeos.net/js/pop.js"
+        },
+        {
+          "capitulo": "Episodio 8",
+          "videoUrl": "https://vimeos.net/xd/xd.js?v=12345s"
+        },
+        {
+          "capitulo": "Episodio 9",
+          "videoUrl": "https://vimeos.net/xd/xd.css?v=12"
+        },
+        {
+          "capitulo": "Episodio 10",
+          "videoUrl": "https://anal.vimeos.net/ssr.js?v4"
+        },
+        {
+          "capitulo": "Episodio 11",
+          "videoUrl": "https://vimeos.net/player/jw8/vast.js"
+        },
+        {
+          "capitulo": "Episodio 12",
+          "videoUrl": "https://vimeos.net/player/jw8/jwplayer.core.controls.js"
+        },
+        {
+          "capitulo": "Episodio 13",
+          "videoUrl": "https://vimeos.net/css2/jw8-theme.css?555"
+        },
+        {
+          "capitulo": "Episodio 14",
+          "videoUrl": "https://vimeos.net/player/jw8/translations/es.json"
+        },
+        {
+          "capitulo": "Episodio 15",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.hlsjs.js"
+        },
+        {
+          "capitulo": "Episodio 16",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581729&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 17",
+          "videoUrl": "https://s11.vimeos.net/vtt/02/00012/nhp0jlquhd0f_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 18",
+          "videoUrl": "https://s11.vimeos.net/vtt/02/00012/nhp0jlquhd0f_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 19",
+          "videoUrl": "https://vimeos.net/srt/empty.srt"
+        },
+        {
+          "capitulo": "Episodio 20",
+          "videoUrl": "https://vimeos.net/player/jw8/polyfills.webvtt.js"
+        },
+        {
+          "capitulo": "Episodio 21",
+          "videoUrl": "https://vimeos.net/logo-v.png"
+        },
+        {
+          "capitulo": "Episodio 22",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.cast.js"
+        },
+        {
+          "capitulo": "Episodio 23",
+          "videoUrl": "blob:https://vimeos.net/89cb2b9f-19c9-493e-8818-c7b4243fac8d"
+        },
+        {
+          "capitulo": "Episodio 24",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.html5.js"
+        },
+        {
+          "capitulo": "Episodio 25",
+          "videoUrl": "https://vimeos.net/player/jw8/vttparser.js"
+        },
+        {
+          "capitulo": "Episodio 26",
+          "videoUrl": "https://vimeos.net/cdn-cgi/rum?"
+        },
+        {
+          "capitulo": "Episodio 27",
+          "videoUrl": "https://vimeos.net/embed-mvqlajjh3e0m.html"
+        },
+        {
+          "capitulo": "Episodio 28",
+          "videoUrl": "https://s11.vimeos.net/i/02/00012/mvqlajjh3e0m.jpg"
+        },
+        {
+          "capitulo": "Episodio 29",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581733&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 30",
+          "videoUrl": "https://s11.vimeos.net/vtt/02/00012/mvqlajjh3e0m_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 31",
+          "videoUrl": "https://s11.vimeos.net/vtt/02/00012/mvqlajjh3e0m_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 32",
+          "videoUrl": "blob:https://vimeos.net/4a6cb0bd-cd82-4740-bd59-231c79d99a91"
+        },
+        {
+          "capitulo": "Episodio 33",
+          "videoUrl": "https://vimeos.net/embed-n68kn3hlt796.html"
+        },
+        {
+          "capitulo": "Episodio 34",
+          "videoUrl": "https://s11.vimeos.net/i/03/00012/n68kn3hlt796.jpg"
+        },
+        {
+          "capitulo": "Episodio 35",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581737&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 36",
+          "videoUrl": "https://s11.vimeos.net/vtt/03/00012/n68kn3hlt796_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 37",
+          "videoUrl": "https://s11.vimeos.net/vtt/03/00012/n68kn3hlt796_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 38",
+          "videoUrl": "blob:https://vimeos.net/48dbcc07-0a63-4022-928b-8f7751332cef"
+        },
+        {
+          "capitulo": "Episodio 39",
+          "videoUrl": "https://vimeos.net/embed-g3ulcm1mirsz.html"
+        },
+        {
+          "capitulo": "Episodio 40",
+          "videoUrl": "https://s12.vimeos.net/i/02/00012/g3ulcm1mirsz.jpg"
+        },
+        {
+          "capitulo": "Episodio 41",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581741&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 42",
+          "videoUrl": "https://s12.vimeos.net/vtt/02/00012/g3ulcm1mirsz_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 43",
+          "videoUrl": "https://s12.vimeos.net/vtt/02/00012/g3ulcm1mirsz_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 44",
+          "videoUrl": "blob:https://vimeos.net/e72ebc84-f0ed-412e-a8fa-890c98d4e9b7"
+        },
+        {
+          "capitulo": "Episodio 45",
+          "videoUrl": "https://vimeos.net/embed-xt3zeq2jg6cu.html"
+        },
+        {
+          "capitulo": "Episodio 46",
+          "videoUrl": "https://s8.vimeos.net/i/03/00012/xt3zeq2jg6cu.jpg"
+        },
+        {
+          "capitulo": "Episodio 47",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581745&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 48",
+          "videoUrl": "https://s8.vimeos.net/vtt/03/00012/xt3zeq2jg6cu_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 49",
+          "videoUrl": "https://s8.vimeos.net/vtt/03/00012/xt3zeq2jg6cu_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 50",
+          "videoUrl": "blob:https://vimeos.net/717e4a40-bd73-4b24-8c8c-11550a94e984"
+        }
+      ],
+      "poster": "https://cdn.discordapp.com/attachments/1549186808208826437/1558190230618509482/Imagen_de_ChatGPT_9_oct_2026_15_51_28.png?ex=6aca893c&is=6ac937bc&hm=cc47003f0a0635b33e98c2212c04f437bb06b447e23a9904b5c0181adb098781&",
+      "type": "series",
+      "categoryName": "general",
+      "videoUrl": "https://vimeos.net/embed-nhp0jlquhd0f.html",
+      "adminKey": "local:121"
+    },
+    {
+      "id": 3,
+      "serieId": "pablo-escobar-the-drug-lord-2012",
+      "title": "Pablo Escobar, el patrón del mal (2012)",
+      "description": "",
+      "category": "general",
+      "episodios": [
+        {
+          "capitulo": "Episodio 1",
+          "videoUrl": "https://vimeos.net/embed-xt3zeq2jg6cu.html"
+        },
+        {
+          "capitulo": "Episodio 2",
+          "videoUrl": "https://vimeos.net/embed-8xybgppgudx7.html"
+        },
+        {
+          "capitulo": "Episodio 3",
+          "videoUrl": "https://vimeos.net/la/style.css?v=v1"
+        },
+        {
+          "capitulo": "Episodio 4",
+          "videoUrl": "https://vimeos.net/js/xupload.js"
+        },
+        {
+          "capitulo": "Episodio 5",
+          "videoUrl": "https://vimeos.net/player/jw8/jwplayer.js?v=x"
+        },
+        {
+          "capitulo": "Episodio 6",
+          "videoUrl": "https://vimeos.net/js/localstorage-slim.js"
+        },
+        {
+          "capitulo": "Episodio 7",
+          "videoUrl": "https://s8.vimeos.net/i/03/00012/8xybgppgudx7.jpg"
+        },
+        {
+          "capitulo": "Episodio 8",
+          "videoUrl": "https://vimeos.net/js/pop.js"
+        },
+        {
+          "capitulo": "Episodio 9",
+          "videoUrl": "https://vimeos.net/xd/xd.js?v=12345s"
+        },
+        {
+          "capitulo": "Episodio 10",
+          "videoUrl": "https://vimeos.net/xd/xd.css?v=12"
+        },
+        {
+          "capitulo": "Episodio 11",
+          "videoUrl": "https://anal.vimeos.net/ssr.js?v4"
+        },
+        {
+          "capitulo": "Episodio 12",
+          "videoUrl": "https://vimeos.net/player/jw8/vast.js"
+        },
+        {
+          "capitulo": "Episodio 13",
+          "videoUrl": "https://vimeos.net/player/jw8/jwplayer.core.controls.js"
+        },
+        {
+          "capitulo": "Episodio 14",
+          "videoUrl": "https://vimeos.net/css2/jw8-theme.css?555"
+        },
+        {
+          "capitulo": "Episodio 15",
+          "videoUrl": "https://vimeos.net/player/jw8/translations/es.json"
+        },
+        {
+          "capitulo": "Episodio 16",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.hlsjs.js"
+        },
+        {
+          "capitulo": "Episodio 17",
+          "videoUrl": "https://s8.vimeos.net/vtt/03/00012/8xybgppgudx7_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 18",
+          "videoUrl": "https://s8.vimeos.net/vtt/03/00012/8xybgppgudx7_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 19",
+          "videoUrl": "https://vimeos.net/srt/empty.srt"
+        },
+        {
+          "capitulo": "Episodio 20",
+          "videoUrl": "https://vimeos.net/player/jw8/polyfills.webvtt.js"
+        },
+        {
+          "capitulo": "Episodio 21",
+          "videoUrl": "https://vimeos.net/logo-v.png"
+        },
+        {
+          "capitulo": "Episodio 22",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.cast.js"
+        },
+        {
+          "capitulo": "Episodio 23",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581753&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 24",
+          "videoUrl": "blob:https://vimeos.net/7c442f19-2a63-4835-8b44-22f484edb672"
+        },
+        {
+          "capitulo": "Episodio 25",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.html5.js"
+        },
+        {
+          "capitulo": "Episodio 26",
+          "videoUrl": "https://vimeos.net/player/jw8/vttparser.js"
+        },
+        {
+          "capitulo": "Episodio 27",
+          "videoUrl": "https://vimeos.net/cdn-cgi/rum?"
+        },
+        {
+          "capitulo": "Episodio 28",
+          "videoUrl": "https://vimeos.net/embed-srztz7xz6qud.html"
+        },
+        {
+          "capitulo": "Episodio 29",
+          "videoUrl": "https://s8.vimeos.net/i/02/00012/srztz7xz6qud.jpg"
+        },
+        {
+          "capitulo": "Episodio 30",
+          "videoUrl": "https://s8.vimeos.net/vtt/02/00012/srztz7xz6qud_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 31",
+          "videoUrl": "https://s8.vimeos.net/vtt/02/00012/srztz7xz6qud_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 32",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581757&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 33",
+          "videoUrl": "blob:https://vimeos.net/06a6559c-cc26-4e8a-b6da-e1caa543f1d4"
+        },
+        {
+          "capitulo": "Episodio 34",
+          "videoUrl": "https://vimeos.net/embed-1ju8twiih9xf.html"
+        },
+        {
+          "capitulo": "Episodio 35",
+          "videoUrl": "https://s8.vimeos.net/i/02/00012/1ju8twiih9xf.jpg"
+        },
+        {
+          "capitulo": "Episodio 36",
+          "videoUrl": "https://s8.vimeos.net/vtt/02/00012/1ju8twiih9xf_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 37",
+          "videoUrl": "https://s8.vimeos.net/vtt/02/00012/1ju8twiih9xf_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 38",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581761&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 39",
+          "videoUrl": "blob:https://vimeos.net/9bc0f3a9-2d96-47ce-b9dd-56c0e827b82f"
+        },
+        {
+          "capitulo": "Episodio 40",
+          "videoUrl": "https://vimeos.net/embed-6ldjoku7b27k.html"
+        },
+        {
+          "capitulo": "Episodio 41",
+          "videoUrl": "https://s13.vimeos.net/i/02/00012/6ldjoku7b27k.jpg"
+        },
+        {
+          "capitulo": "Episodio 42",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581765&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 43",
+          "videoUrl": "https://s13.vimeos.net/vtt/02/00012/6ldjoku7b27k_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 44",
+          "videoUrl": "https://s13.vimeos.net/vtt/02/00012/6ldjoku7b27k_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 45",
+          "videoUrl": "blob:https://vimeos.net/dabb1dc4-3a1e-43cb-a55e-4ddfc2b704cb"
+        }
+      ],
+      "poster": "https://cdn.discordapp.com/attachments/1549186808208826437/1558190230618509482/Imagen_de_ChatGPT_9_oct_2026_15_51_28.png?ex=6aca893c&is=6ac937bc&hm=cc47003f0a0635b33e98c2212c04f437bb06b447e23a9904b5c0181adb098781&",
+      "type": "series",
+      "categoryName": "general",
+      "videoUrl": "https://vimeos.net/embed-xt3zeq2jg6cu.html",
+      "adminKey": "local:122"
+    },
+    {
+      "id": 4,
+      "serieId": "gg-precinct-2024",
+      "title": "GG Precinct (2024)",
+      "description": "",
+      "category": "general",
+      "episodios": [
+        {
+          "capitulo": "Episodio 1",
+          "videoUrl": "https://vimeos.net/embed-f3tk5ceylu8o.html"
+        },
+        {
+          "capitulo": "Episodio 2",
+          "videoUrl": "https://vimeos.net/embed-krikkyc38cny.html"
+        },
+        {
+          "capitulo": "Episodio 3",
+          "videoUrl": "https://vimeos.net/la/style.css?v=v1"
+        },
+        {
+          "capitulo": "Episodio 4",
+          "videoUrl": "https://vimeos.net/js/xupload.js"
+        },
+        {
+          "capitulo": "Episodio 5",
+          "videoUrl": "https://vimeos.net/player/jw8/jwplayer.js?v=x"
+        },
+        {
+          "capitulo": "Episodio 6",
+          "videoUrl": "https://vimeos.net/js/localstorage-slim.js"
+        },
+        {
+          "capitulo": "Episodio 7",
+          "videoUrl": "https://s9.vimeos.net/i/02/00002/krikkyc38cny.jpg"
+        },
+        {
+          "capitulo": "Episodio 8",
+          "videoUrl": "https://vimeos.net/js/pop.js"
+        },
+        {
+          "capitulo": "Episodio 9",
+          "videoUrl": "https://vimeos.net/xd/xd.js?v=12345s"
+        },
+        {
+          "capitulo": "Episodio 10",
+          "videoUrl": "https://vimeos.net/xd/xd.css?v=12"
+        },
+        {
+          "capitulo": "Episodio 11",
+          "videoUrl": "https://anal.vimeos.net/ssr.js?v4"
+        },
+        {
+          "capitulo": "Episodio 12",
+          "videoUrl": "https://vimeos.net/player/jw8/vast.js"
+        },
+        {
+          "capitulo": "Episodio 13",
+          "videoUrl": "https://vimeos.net/player/jw8/jwplayer.core.controls.js"
+        },
+        {
+          "capitulo": "Episodio 14",
+          "videoUrl": "https://vimeos.net/css2/jw8-theme.css?555"
+        },
+        {
+          "capitulo": "Episodio 15",
+          "videoUrl": "https://vimeos.net/player/jw8/translations/es.json"
+        },
+        {
+          "capitulo": "Episodio 16",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.hlsjs.js"
+        },
+        {
+          "capitulo": "Episodio 17",
+          "videoUrl": "https://vimeos.net/srt/empty.srt"
+        },
+        {
+          "capitulo": "Episodio 18",
+          "videoUrl": "https://vimeos.net/player/jw8/polyfills.webvtt.js"
+        },
+        {
+          "capitulo": "Episodio 19",
+          "videoUrl": "https://vimeos.net/logo-v.png"
+        },
+        {
+          "capitulo": "Episodio 20",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.cast.js"
+        },
+        {
+          "capitulo": "Episodio 21",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581775&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 22",
+          "videoUrl": "blob:https://vimeos.net/e5ff1e72-c509-4b30-9df2-2a4090334bef"
+        },
+        {
+          "capitulo": "Episodio 23",
+          "videoUrl": "https://vimeos.net/cdn-cgi/rum?"
+        },
+        {
+          "capitulo": "Episodio 24",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.html5.js"
+        },
+        {
+          "capitulo": "Episodio 25",
+          "videoUrl": "https://vimeos.net/embed-ylc3uonjkj10.html"
+        },
+        {
+          "capitulo": "Episodio 26",
+          "videoUrl": "https://s9.vimeos.net/i/02/00002/ylc3uonjkj10.jpg"
+        },
+        {
+          "capitulo": "Episodio 27",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581779&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 28",
+          "videoUrl": "blob:https://vimeos.net/6e5d94d2-53be-45b8-ba5c-8d5c7e0ba61d"
+        },
+        {
+          "capitulo": "Episodio 29",
+          "videoUrl": "https://vimeos.net/embed-jevfci7yi9jj.html"
+        },
+        {
+          "capitulo": "Episodio 30",
+          "videoUrl": "https://s9.vimeos.net/i/02/00002/jevfci7yi9jj.jpg"
+        },
+        {
+          "capitulo": "Episodio 31",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581783&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 32",
+          "videoUrl": "blob:https://vimeos.net/3f9cc096-f6c3-4cc4-9101-fb5a5d808e53"
+        },
+        {
+          "capitulo": "Episodio 33",
+          "videoUrl": "https://vimeos.net/embed-objo8mtha08j.html"
+        },
+        {
+          "capitulo": "Episodio 34",
+          "videoUrl": "https://s9.vimeos.net/i/02/00002/8p4tgagrvljk.jpg"
+        },
+        {
+          "capitulo": "Episodio 35",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581787&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 36",
+          "videoUrl": "blob:https://vimeos.net/a0a045c3-b6f6-4757-b43f-8f607b6f932e"
+        },
+        {
+          "capitulo": "Episodio 37",
+          "videoUrl": "https://vimeos.net/embed-06tg3vl6xefo.html"
+        },
+        {
+          "capitulo": "Episodio 38",
+          "videoUrl": "https://s9.vimeos.net/i/02/00002/06tg3vl6xefo.jpg"
+        },
+        {
+          "capitulo": "Episodio 39",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581791&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 40",
+          "videoUrl": "blob:https://vimeos.net/e1e6ec00-5493-4e5e-a621-28c7a16dc889"
+        }
+      ],
+      "poster": "https://cdn.discordapp.com/attachments/1549186808208826437/1558190230618509482/Imagen_de_ChatGPT_9_oct_2026_15_51_28.png?ex=6aca893c&is=6ac937bc&hm=cc47003f0a0635b33e98c2212c04f437bb06b447e23a9904b5c0181adb098781&",
+      "type": "series",
+      "categoryName": "general",
+      "videoUrl": "https://vimeos.net/embed-f3tk5ceylu8o.html",
+      "adminKey": "local:123"
+    },
+    {
+      "id": 5,
+      "serieId": "9-1-1-2018",
+      "title": "9-1-1 (2018)",
+      "description": "",
+      "category": "general",
+      "episodios": [
+        {
+          "capitulo": "Episodio 1",
+          "videoUrl": "https://vimeos.net/embed-r7imse410hna.html"
+        },
+        {
+          "capitulo": "Episodio 2",
+          "videoUrl": "https://vimeos.net/embed-5gu5xedoyfnh.html"
+        },
+        {
+          "capitulo": "Episodio 3",
+          "videoUrl": "https://vimeos.net/la/style.css?v=v1"
+        },
+        {
+          "capitulo": "Episodio 4",
+          "videoUrl": "https://vimeos.net/js/xupload.js"
+        },
+        {
+          "capitulo": "Episodio 5",
+          "videoUrl": "https://vimeos.net/player/jw8/jwplayer.js?v=x"
+        },
+        {
+          "capitulo": "Episodio 6",
+          "videoUrl": "https://vimeos.net/js/localstorage-slim.js"
+        },
+        {
+          "capitulo": "Episodio 7",
+          "videoUrl": "https://s9.vimeos.net/i/03/00012/5gu5xedoyfnh.jpg"
+        },
+        {
+          "capitulo": "Episodio 8",
+          "videoUrl": "https://vimeos.net/js/pop.js"
+        },
+        {
+          "capitulo": "Episodio 9",
+          "videoUrl": "https://vimeos.net/xd/xd.js?v=12345s"
+        },
+        {
+          "capitulo": "Episodio 10",
+          "videoUrl": "https://vimeos.net/xd/xd.css?v=12"
+        },
+        {
+          "capitulo": "Episodio 11",
+          "videoUrl": "https://anal.vimeos.net/ssr.js?v4"
+        },
+        {
+          "capitulo": "Episodio 12",
+          "videoUrl": "https://vimeos.net/player/jw8/vast.js"
+        },
+        {
+          "capitulo": "Episodio 13",
+          "videoUrl": "https://vimeos.net/player/jw8/jwplayer.core.controls.js"
+        },
+        {
+          "capitulo": "Episodio 14",
+          "videoUrl": "https://vimeos.net/css2/jw8-theme.css?555"
+        },
+        {
+          "capitulo": "Episodio 15",
+          "videoUrl": "https://vimeos.net/player/jw8/translations/es.json"
+        },
+        {
+          "capitulo": "Episodio 16",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.hlsjs.js"
+        },
+        {
+          "capitulo": "Episodio 17",
+          "videoUrl": "https://s9.vimeos.net/vtt/03/00012/5gu5xedoyfnh_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 18",
+          "videoUrl": "https://vimeos.net/srt/empty.srt"
+        },
+        {
+          "capitulo": "Episodio 19",
+          "videoUrl": "https://vimeos.net/player/jw8/polyfills.webvtt.js"
+        },
+        {
+          "capitulo": "Episodio 20",
+          "videoUrl": "https://vimeos.net/logo-v.png"
+        },
+        {
+          "capitulo": "Episodio 21",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.cast.js"
+        },
+        {
+          "capitulo": "Episodio 22",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581799&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 23",
+          "videoUrl": "blob:https://vimeos.net/d8122e0d-bd74-4e86-990f-9e40b8757bda"
+        },
+        {
+          "capitulo": "Episodio 24",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.html5.js"
+        },
+        {
+          "capitulo": "Episodio 25",
+          "videoUrl": "https://vimeos.net/cdn-cgi/rum?"
+        },
+        {
+          "capitulo": "Episodio 26",
+          "videoUrl": "https://vimeos.net/player/jw8/vttparser.js"
+        },
+        {
+          "capitulo": "Episodio 27",
+          "videoUrl": "https://vimeos.net/embed-f5by1vrhhg9a.html"
+        },
+        {
+          "capitulo": "Episodio 28",
+          "videoUrl": "https://s10.vimeos.net/i/02/00012/f5by1vrhhg9a.jpg"
+        },
+        {
+          "capitulo": "Episodio 29",
+          "videoUrl": "https://s10.vimeos.net/vtt/02/00012/f5by1vrhhg9a_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 30",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581803&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 31",
+          "videoUrl": "blob:https://vimeos.net/0829b6eb-cb0c-47fb-9777-02212891e216"
+        },
+        {
+          "capitulo": "Episodio 32",
+          "videoUrl": "https://vimeos.net/embed-1xb8vq9s4w6m.html"
+        },
+        {
+          "capitulo": "Episodio 33",
+          "videoUrl": "https://s11.vimeos.net/i/02/00012/1xb8vq9s4w6m.jpg"
+        },
+        {
+          "capitulo": "Episodio 34",
+          "videoUrl": "https://s11.vimeos.net/vtt/02/00012/1xb8vq9s4w6m_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 35",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581807&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 36",
+          "videoUrl": "blob:https://vimeos.net/311b228d-1a79-4a7c-a7cc-e192302327e7"
+        },
+        {
+          "capitulo": "Episodio 37",
+          "videoUrl": "https://vimeos.net/embed-3yr7ocwal16w.html"
+        },
+        {
+          "capitulo": "Episodio 38",
+          "videoUrl": "https://s11.vimeos.net/i/03/00012/3yr7ocwal16w.jpg"
+        },
+        {
+          "capitulo": "Episodio 39",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581811&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 40",
+          "videoUrl": "https://s11.vimeos.net/vtt/03/00012/3yr7ocwal16w_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 41",
+          "videoUrl": "blob:https://vimeos.net/b657fe91-0c6e-4db9-b559-83223b641fdd"
+        },
+        {
+          "capitulo": "Episodio 42",
+          "videoUrl": "https://vimeos.net/embed-rg80muyozdz6.html"
+        },
+        {
+          "capitulo": "Episodio 43",
+          "videoUrl": "https://s12.vimeos.net/i/02/00012/rg80muyozdz6.jpg"
+        },
+        {
+          "capitulo": "Episodio 44",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581815&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 45",
+          "videoUrl": "https://s12.vimeos.net/vtt/02/00012/rg80muyozdz6_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 46",
+          "videoUrl": "blob:https://vimeos.net/64ae48b1-26d0-45cf-8930-68217006c7fd"
+        }
+      ],
+      "poster": "https://cdn.discordapp.com/attachments/1549186808208826437/1558190230618509482/Imagen_de_ChatGPT_9_oct_2026_15_51_28.png?ex=6aca893c&is=6ac937bc&hm=cc47003f0a0635b33e98c2212c04f437bb06b447e23a9904b5c0181adb098781&",
+      "type": "series",
+      "categoryName": "general",
+      "videoUrl": "https://vimeos.net/embed-r7imse410hna.html",
+      "adminKey": "local:124"
+    },
+    {
+      "id": 6,
+      "serieId": "una-buena-familia-americana-2025",
+      "title": "Una buena familia americana (2025)",
+      "description": "",
+      "category": "general",
+      "episodios": [
+        {
+          "capitulo": "Episodio 1",
+          "videoUrl": "https://vimeos.net/embed-lkhd93tsczt9.html"
+        },
+        {
+          "capitulo": "Episodio 2",
+          "videoUrl": "https://vimeos.net/embed-267u57d2iu68.html"
+        },
+        {
+          "capitulo": "Episodio 3",
+          "videoUrl": "https://vimeos.net/la/style.css?v=v1"
+        },
+        {
+          "capitulo": "Episodio 4",
+          "videoUrl": "https://vimeos.net/js/xupload.js"
+        },
+        {
+          "capitulo": "Episodio 5",
+          "videoUrl": "https://vimeos.net/player/jw8/jwplayer.js?v=x"
+        },
+        {
+          "capitulo": "Episodio 6",
+          "videoUrl": "https://vimeos.net/js/localstorage-slim.js"
+        },
+        {
+          "capitulo": "Episodio 7",
+          "videoUrl": "https://s13.vimeos.net/i/02/00009/267u57d2iu68.jpg"
+        },
+        {
+          "capitulo": "Episodio 8",
+          "videoUrl": "https://vimeos.net/js/pop.js"
+        },
+        {
+          "capitulo": "Episodio 9",
+          "videoUrl": "https://vimeos.net/xd/xd.js?v=12345s"
+        },
+        {
+          "capitulo": "Episodio 10",
+          "videoUrl": "https://vimeos.net/xd/xd.css?v=12"
+        },
+        {
+          "capitulo": "Episodio 11",
+          "videoUrl": "https://anal.vimeos.net/ssr.js?v4"
+        },
+        {
+          "capitulo": "Episodio 12",
+          "videoUrl": "https://vimeos.net/player/jw8/vast.js"
+        },
+        {
+          "capitulo": "Episodio 13",
+          "videoUrl": "https://vimeos.net/player/jw8/jwplayer.core.controls.js"
+        },
+        {
+          "capitulo": "Episodio 14",
+          "videoUrl": "https://vimeos.net/css2/jw8-theme.css?555"
+        },
+        {
+          "capitulo": "Episodio 15",
+          "videoUrl": "https://vimeos.net/player/jw8/translations/es.json"
+        },
+        {
+          "capitulo": "Episodio 16",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.hlsjs.js"
+        },
+        {
+          "capitulo": "Episodio 17",
+          "videoUrl": "https://s13.vimeos.net/vtt/02/00009/267u57d2iu68_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 18",
+          "videoUrl": "https://s13.vimeos.net/vtt/02/00009/267u57d2iu68_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 19",
+          "videoUrl": "https://vimeos.net/srt/empty.srt"
+        },
+        {
+          "capitulo": "Episodio 20",
+          "videoUrl": "https://vimeos.net/player/jw8/polyfills.webvtt.js"
+        },
+        {
+          "capitulo": "Episodio 21",
+          "videoUrl": "https://vimeos.net/logo-v.png"
+        },
+        {
+          "capitulo": "Episodio 22",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.cast.js"
+        },
+        {
+          "capitulo": "Episodio 23",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581823&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 24",
+          "videoUrl": "blob:https://vimeos.net/318cb329-68ef-4573-8231-85d5bb5c8245"
+        },
+        {
+          "capitulo": "Episodio 25",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.html5.js"
+        },
+        {
+          "capitulo": "Episodio 26",
+          "videoUrl": "https://vimeos.net/cdn-cgi/rum?"
+        },
+        {
+          "capitulo": "Episodio 27",
+          "videoUrl": "https://vimeos.net/player/jw8/vttparser.js"
+        },
+        {
+          "capitulo": "Episodio 28",
+          "videoUrl": "https://vimeos.net/embed-ng09us3r0x9y.html"
+        },
+        {
+          "capitulo": "Episodio 29",
+          "videoUrl": "https://s10.vimeos.net/i/02/00006/ng09us3r0x9y.jpg"
+        },
+        {
+          "capitulo": "Episodio 30",
+          "videoUrl": "https://s10.vimeos.net/vtt/02/00006/ng09us3r0x9y_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 31",
+          "videoUrl": "https://s10.vimeos.net/vtt/02/00006/ng09us3r0x9y_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 32",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581827&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 33",
+          "videoUrl": "blob:https://vimeos.net/d6dfb18e-8c4d-4ca7-b7dd-409d729b20cf"
+        },
+        {
+          "capitulo": "Episodio 34",
+          "videoUrl": "https://vimeos.net/embed-rq3z1bluol70.html"
+        },
+        {
+          "capitulo": "Episodio 35",
+          "videoUrl": "https://s11.vimeos.net/i/03/00003/rq3z1bluol70.jpg"
+        },
+        {
+          "capitulo": "Episodio 36",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581831&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 37",
+          "videoUrl": "blob:https://vimeos.net/e8d01068-d1aa-4f18-8df8-9bbf1f7c560e"
+        },
+        {
+          "capitulo": "Episodio 38",
+          "videoUrl": "https://vimeos.net/embed-app4zi9qg2vc.html"
+        },
+        {
+          "capitulo": "Episodio 39",
+          "videoUrl": "https://s13.vimeos.net/i/03/00000/app4zi9qg2vc.jpg"
+        },
+        {
+          "capitulo": "Episodio 40",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581835&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 41",
+          "videoUrl": "blob:https://vimeos.net/5ecf765b-3257-4ab9-a8e0-9da7bc0bce67"
+        },
+        {
+          "capitulo": "Episodio 42",
+          "videoUrl": "https://vimeos.net/embed-y2s1egaavohh.html"
+        },
+        {
+          "capitulo": "Episodio 43",
+          "videoUrl": "https://s9.vimeos.net/i/03/00000/y2s1egaavohh.jpg"
+        },
+        {
+          "capitulo": "Episodio 44",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581839&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 45",
+          "videoUrl": "blob:https://vimeos.net/68278cd2-a770-41ae-aa5d-c6a564013d42"
+        }
+      ],
+      "poster": "https://cdn.discordapp.com/attachments/1549186808208826437/1558190230618509482/Imagen_de_ChatGPT_9_oct_2026_15_51_28.png?ex=6aca893c&is=6ac937bc&hm=cc47003f0a0635b33e98c2212c04f437bb06b447e23a9904b5c0181adb098781&",
+      "type": "series",
+      "categoryName": "general",
+      "videoUrl": "https://vimeos.net/embed-lkhd93tsczt9.html",
+      "adminKey": "local:125"
+    },
+    {
+      "id": 7,
+      "serieId": "hombre-a-medias-2026",
+      "title": "Hombre a medias (2026)",
+      "description": "",
+      "category": "general",
+      "episodios": [
+        {
+          "capitulo": "Episodio 1",
+          "videoUrl": "https://vimeos.net/embed-egllte3bncbo.html"
+        },
+        {
+          "capitulo": "Episodio 2",
+          "videoUrl": "https://vimeos.net/embed-3t8fvmr2y3g4.html"
+        },
+        {
+          "capitulo": "Episodio 3",
+          "videoUrl": "https://vimeos.net/la/style.css?v=v1"
+        },
+        {
+          "capitulo": "Episodio 4",
+          "videoUrl": "https://vimeos.net/js/xupload.js"
+        },
+        {
+          "capitulo": "Episodio 5",
+          "videoUrl": "https://vimeos.net/player/jw8/jwplayer.js?v=x"
+        },
+        {
+          "capitulo": "Episodio 6",
+          "videoUrl": "https://vimeos.net/js/localstorage-slim.js"
+        },
+        {
+          "capitulo": "Episodio 7",
+          "videoUrl": "https://s11.vimeos.net/i/03/00010/3t8fvmr2y3g4.jpg"
+        },
+        {
+          "capitulo": "Episodio 8",
+          "videoUrl": "https://vimeos.net/js/pop.js"
+        },
+        {
+          "capitulo": "Episodio 9",
+          "videoUrl": "https://vimeos.net/xd/xd.js?v=12345s"
+        },
+        {
+          "capitulo": "Episodio 10",
+          "videoUrl": "https://vimeos.net/xd/xd.css?v=12"
+        },
+        {
+          "capitulo": "Episodio 11",
+          "videoUrl": "https://anal.vimeos.net/ssr.js?v4"
+        },
+        {
+          "capitulo": "Episodio 12",
+          "videoUrl": "https://vimeos.net/player/jw8/vast.js"
+        },
+        {
+          "capitulo": "Episodio 13",
+          "videoUrl": "https://vimeos.net/player/jw8/jwplayer.core.controls.js"
+        },
+        {
+          "capitulo": "Episodio 14",
+          "videoUrl": "https://vimeos.net/css2/jw8-theme.css?555"
+        },
+        {
+          "capitulo": "Episodio 15",
+          "videoUrl": "https://vimeos.net/player/jw8/translations/es.json"
+        },
+        {
+          "capitulo": "Episodio 16",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.hlsjs.js"
+        },
+        {
+          "capitulo": "Episodio 17",
+          "videoUrl": "https://s11.vimeos.net/vtt/03/00010/3t8fvmr2y3g4_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 18",
+          "videoUrl": "https://s11.vimeos.net/vtt/03/00010/3t8fvmr2y3g4_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 19",
+          "videoUrl": "https://vimeos.net/srt/empty.srt"
+        },
+        {
+          "capitulo": "Episodio 20",
+          "videoUrl": "https://vimeos.net/player/jw8/polyfills.webvtt.js"
+        },
+        {
+          "capitulo": "Episodio 21",
+          "videoUrl": "https://vimeos.net/logo-v.png"
+        },
+        {
+          "capitulo": "Episodio 22",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.cast.js"
+        },
+        {
+          "capitulo": "Episodio 23",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581846&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 24",
+          "videoUrl": "blob:https://vimeos.net/2994a874-d946-4973-85e4-2854975a4025"
+        },
+        {
+          "capitulo": "Episodio 25",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.html5.js"
+        },
+        {
+          "capitulo": "Episodio 26",
+          "videoUrl": "https://vimeos.net/player/jw8/vttparser.js"
+        },
+        {
+          "capitulo": "Episodio 27",
+          "videoUrl": "https://vimeos.net/cdn-cgi/rum?"
+        },
+        {
+          "capitulo": "Episodio 28",
+          "videoUrl": "https://vimeos.net/embed-r2fvnsplbliz.html"
+        },
+        {
+          "capitulo": "Episodio 29",
+          "videoUrl": "https://s10.vimeos.net/i/02/00010/r2fvnsplbliz.jpg"
+        },
+        {
+          "capitulo": "Episodio 30",
+          "videoUrl": "https://s10.vimeos.net/vtt/02/00010/r2fvnsplbliz_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 31",
+          "videoUrl": "https://s10.vimeos.net/vtt/02/00010/r2fvnsplbliz_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 32",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581850&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 33",
+          "videoUrl": "blob:https://vimeos.net/902e0b6b-02e6-48ea-987b-7ac1e1337c7b"
+        },
+        {
+          "capitulo": "Episodio 34",
+          "videoUrl": "https://vimeos.net/embed-fgyziwgpmb0n.html"
+        },
+        {
+          "capitulo": "Episodio 35",
+          "videoUrl": "https://s10.vimeos.net/i/02/00010/fgyziwgpmb0n.jpg"
+        },
+        {
+          "capitulo": "Episodio 36",
+          "videoUrl": "https://s10.vimeos.net/vtt/02/00010/fgyziwgpmb0n_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 37",
+          "videoUrl": "https://s10.vimeos.net/vtt/02/00010/fgyziwgpmb0n_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 38",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581854&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 39",
+          "videoUrl": "blob:https://vimeos.net/2613201a-ed5a-400f-aedd-60ba4ac46a5c"
+        },
+        {
+          "capitulo": "Episodio 40",
+          "videoUrl": "https://vimeos.net/embed-2wtj8phryrwf.html"
+        },
+        {
+          "capitulo": "Episodio 41",
+          "videoUrl": "https://s12.vimeos.net/i/03/00010/2wtj8phryrwf.jpg"
+        },
+        {
+          "capitulo": "Episodio 42",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581858&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 43",
+          "videoUrl": "https://s12.vimeos.net/vtt/03/00010/2wtj8phryrwf_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 44",
+          "videoUrl": "https://s12.vimeos.net/vtt/03/00010/2wtj8phryrwf_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 45",
+          "videoUrl": "blob:https://vimeos.net/a41f8676-32e7-4c5a-92b1-9ec25ac80801"
+        },
+        {
+          "capitulo": "Episodio 46",
+          "videoUrl": "https://vimeos.net/embed-rbwz12g9cg2m.html"
+        },
+        {
+          "capitulo": "Episodio 47",
+          "videoUrl": "https://s10.vimeos.net/i/02/00010/rbwz12g9cg2m.jpg"
+        },
+        {
+          "capitulo": "Episodio 48",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581862&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 49",
+          "videoUrl": "https://s10.vimeos.net/vtt/02/00010/rbwz12g9cg2m_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 50",
+          "videoUrl": "https://s10.vimeos.net/vtt/02/00010/rbwz12g9cg2m_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 51",
+          "videoUrl": "blob:https://vimeos.net/c0a51179-9877-4057-b38a-bd20c3f2d92a"
+        }
+      ],
+      "poster": "https://cdn.discordapp.com/attachments/1549186808208826437/1558190230618509482/Imagen_de_ChatGPT_9_oct_2026_15_51_28.png?ex=6aca893c&is=6ac937bc&hm=cc47003f0a0635b33e98c2212c04f437bb06b447e23a9904b5c0181adb098781&",
+      "type": "series",
+      "categoryName": "general",
+      "videoUrl": "https://vimeos.net/embed-egllte3bncbo.html",
+      "adminKey": "local:126"
+    },
+    {
+      "id": 8,
+      "serieId": "light-shop-entre-la-vida-y-la-muerte-2024",
+      "title": "Light Shop: Entre la vida y la muerte (2024)",
+      "description": "",
+      "category": "general",
+      "episodios": [
+        {
+          "capitulo": "Episodio 1",
+          "videoUrl": "https://vimeos.net/embed-96qfn616xcip.html"
+        },
+        {
+          "capitulo": "Episodio 2",
+          "videoUrl": "https://vimeos.net/embed-06sfuvm1a574.html"
+        },
+        {
+          "capitulo": "Episodio 3",
+          "videoUrl": "https://vimeos.net/la/style.css?v=v1"
+        },
+        {
+          "capitulo": "Episodio 4",
+          "videoUrl": "https://vimeos.net/js/xupload.js"
+        },
+        {
+          "capitulo": "Episodio 5",
+          "videoUrl": "https://vimeos.net/player/jw8/jwplayer.js?v=x"
+        },
+        {
+          "capitulo": "Episodio 6",
+          "videoUrl": "https://vimeos.net/js/localstorage-slim.js"
+        },
+        {
+          "capitulo": "Episodio 7",
+          "videoUrl": "https://s12.vimeos.net/i/02/00002/06sfuvm1a574.jpg"
+        },
+        {
+          "capitulo": "Episodio 8",
+          "videoUrl": "https://vimeos.net/js/pop.js"
+        },
+        {
+          "capitulo": "Episodio 9",
+          "videoUrl": "https://vimeos.net/xd/xd.js?v=12345s"
+        },
+        {
+          "capitulo": "Episodio 10",
+          "videoUrl": "https://vimeos.net/xd/xd.css?v=12"
+        },
+        {
+          "capitulo": "Episodio 11",
+          "videoUrl": "https://anal.vimeos.net/ssr.js?v4"
+        },
+        {
+          "capitulo": "Episodio 12",
+          "videoUrl": "https://vimeos.net/player/jw8/vast.js"
+        },
+        {
+          "capitulo": "Episodio 13",
+          "videoUrl": "https://vimeos.net/player/jw8/jwplayer.core.controls.js"
+        },
+        {
+          "capitulo": "Episodio 14",
+          "videoUrl": "https://vimeos.net/css2/jw8-theme.css?555"
+        },
+        {
+          "capitulo": "Episodio 15",
+          "videoUrl": "https://vimeos.net/player/jw8/translations/es.json"
+        },
+        {
+          "capitulo": "Episodio 16",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.hlsjs.js"
+        },
+        {
+          "capitulo": "Episodio 17",
+          "videoUrl": "https://vimeos.net/srt/empty.srt"
+        },
+        {
+          "capitulo": "Episodio 18",
+          "videoUrl": "https://vimeos.net/player/jw8/polyfills.webvtt.js"
+        },
+        {
+          "capitulo": "Episodio 19",
+          "videoUrl": "https://vimeos.net/logo-v.png"
+        },
+        {
+          "capitulo": "Episodio 20",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.cast.js"
+        },
+        {
+          "capitulo": "Episodio 21",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581870&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 22",
+          "videoUrl": "blob:https://vimeos.net/d9dde72b-fc6a-4aa3-b566-639797839793"
+        },
+        {
+          "capitulo": "Episodio 23",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.html5.js"
+        },
+        {
+          "capitulo": "Episodio 24",
+          "videoUrl": "https://vimeos.net/cdn-cgi/rum?"
+        },
+        {
+          "capitulo": "Episodio 25",
+          "videoUrl": "https://vimeos.net/embed-lm2v9x2w33jw.html"
+        },
+        {
+          "capitulo": "Episodio 26",
+          "videoUrl": "https://s12.vimeos.net/i/02/00002/kbcgyrq7e3jo.jpg"
+        },
+        {
+          "capitulo": "Episodio 27",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581874&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 28",
+          "videoUrl": "blob:https://vimeos.net/5148d54e-b200-49d6-a7ed-3f5747f2db4f"
+        },
+        {
+          "capitulo": "Episodio 29",
+          "videoUrl": "https://vimeos.net/embed-jgp555u3knnu.html"
+        },
+        {
+          "capitulo": "Episodio 30",
+          "videoUrl": "https://s12.vimeos.net/i/02/00002/jgp555u3knnu.jpg"
+        },
+        {
+          "capitulo": "Episodio 31",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581878&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 32",
+          "videoUrl": "blob:https://vimeos.net/10297d06-7813-4994-b436-4f6a7733b469"
+        },
+        {
+          "capitulo": "Episodio 33",
+          "videoUrl": "https://vimeos.net/embed-ofv8bdivza23.html"
+        },
+        {
+          "capitulo": "Episodio 34",
+          "videoUrl": "https://s12.vimeos.net/i/02/00002/ofv8bdivza23.jpg"
+        },
+        {
+          "capitulo": "Episodio 35",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581882&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 36",
+          "videoUrl": "blob:https://vimeos.net/14370c95-9f69-4ffa-b956-f5d96e6964b1"
+        },
+        {
+          "capitulo": "Episodio 37",
+          "videoUrl": "https://vimeos.net/embed-a6ufhbbut4rd.html"
+        },
+        {
+          "capitulo": "Episodio 38",
+          "videoUrl": "https://s12.vimeos.net/i/02/00002/a6ufhbbut4rd.jpg"
+        },
+        {
+          "capitulo": "Episodio 39",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581886&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 40",
+          "videoUrl": "blob:https://vimeos.net/08ad1f9f-ee0e-43c6-b8cc-d9dbfe420800"
+        }
+      ],
+      "poster": "https://cdn.discordapp.com/attachments/1549186808208826437/1558190230618509482/Imagen_de_ChatGPT_9_oct_2026_15_51_28.png?ex=6aca893c&is=6ac937bc&hm=cc47003f0a0635b33e98c2212c04f437bb06b447e23a9904b5c0181adb098781&",
+      "type": "series",
+      "categoryName": "general",
+      "videoUrl": "https://vimeos.net/embed-96qfn616xcip.html",
+      "adminKey": "local:127"
+    },
+    {
+      "id": 9,
+      "serieId": "los-detectives-difuntos-2024",
+      "title": "Los detectives difuntos (2024)",
+      "description": "",
+      "category": "general",
+      "episodios": [
+        {
+          "capitulo": "Episodio 1",
+          "videoUrl": "https://vimeos.net/embed-yh6mk69zh0a0.html"
+        },
+        {
+          "capitulo": "Episodio 2",
+          "videoUrl": "https://vimeos.net/embed-9vuu4npverm8.html"
+        },
+        {
+          "capitulo": "Episodio 3",
+          "videoUrl": "https://vimeos.net/la/style.css?v=v1"
+        },
+        {
+          "capitulo": "Episodio 4",
+          "videoUrl": "https://vimeos.net/js/xupload.js"
+        },
+        {
+          "capitulo": "Episodio 5",
+          "videoUrl": "https://vimeos.net/player/jw8/jwplayer.js?v=x"
+        },
+        {
+          "capitulo": "Episodio 6",
+          "videoUrl": "https://vimeos.net/js/localstorage-slim.js"
+        },
+        {
+          "capitulo": "Episodio 7",
+          "videoUrl": "https://s8.vimeos.net/i/02/00005/9vuu4npverm8.jpg"
+        },
+        {
+          "capitulo": "Episodio 8",
+          "videoUrl": "https://vimeos.net/js/pop.js"
+        },
+        {
+          "capitulo": "Episodio 9",
+          "videoUrl": "https://vimeos.net/xd/xd.js?v=12345s"
+        },
+        {
+          "capitulo": "Episodio 10",
+          "videoUrl": "https://vimeos.net/xd/xd.css?v=12"
+        },
+        {
+          "capitulo": "Episodio 11",
+          "videoUrl": "https://anal.vimeos.net/ssr.js?v4"
+        },
+        {
+          "capitulo": "Episodio 12",
+          "videoUrl": "https://vimeos.net/player/jw8/vast.js"
+        },
+        {
+          "capitulo": "Episodio 13",
+          "videoUrl": "https://vimeos.net/player/jw8/jwplayer.core.controls.js"
+        },
+        {
+          "capitulo": "Episodio 14",
+          "videoUrl": "https://vimeos.net/css2/jw8-theme.css?555"
+        },
+        {
+          "capitulo": "Episodio 15",
+          "videoUrl": "https://vimeos.net/player/jw8/translations/es.json"
+        },
+        {
+          "capitulo": "Episodio 16",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.hlsjs.js"
+        },
+        {
+          "capitulo": "Episodio 17",
+          "videoUrl": "https://s8.vimeos.net/vtt/02/00005/9vuu4npverm8_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 18",
+          "videoUrl": "https://s8.vimeos.net/vtt/02/00005/9vuu4npverm8_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 19",
+          "videoUrl": "https://vimeos.net/srt/empty.srt"
+        },
+        {
+          "capitulo": "Episodio 20",
+          "videoUrl": "https://vimeos.net/player/jw8/polyfills.webvtt.js"
+        },
+        {
+          "capitulo": "Episodio 21",
+          "videoUrl": "https://vimeos.net/logo-v.png"
+        },
+        {
+          "capitulo": "Episodio 22",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.cast.js"
+        },
+        {
+          "capitulo": "Episodio 23",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581918&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 24",
+          "videoUrl": "blob:https://vimeos.net/6109d4a1-e06a-4e73-9cdd-f207d939f28e"
+        },
+        {
+          "capitulo": "Episodio 25",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.html5.js"
+        },
+        {
+          "capitulo": "Episodio 26",
+          "videoUrl": "https://vimeos.net/cdn-cgi/rum?"
+        },
+        {
+          "capitulo": "Episodio 27",
+          "videoUrl": "https://vimeos.net/player/jw8/vttparser.js"
+        },
+        {
+          "capitulo": "Episodio 28",
+          "videoUrl": "https://vimeos.net/embed-7xtw7e901o9e.html"
+        },
+        {
+          "capitulo": "Episodio 29",
+          "videoUrl": "https://s8.vimeos.net/i/02/00005/7xtw7e901o9e.jpg"
+        },
+        {
+          "capitulo": "Episodio 30",
+          "videoUrl": "https://s8.vimeos.net/vtt/02/00005/7xtw7e901o9e_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 31",
+          "videoUrl": "https://s8.vimeos.net/vtt/02/00005/7xtw7e901o9e_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 32",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581922&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 33",
+          "videoUrl": "blob:https://vimeos.net/eec79d62-e66e-48ef-b23c-3d19e05bc7b3"
+        },
+        {
+          "capitulo": "Episodio 34",
+          "videoUrl": "https://vimeos.net/embed-y7uno0kzptn9.html"
+        },
+        {
+          "capitulo": "Episodio 35",
+          "videoUrl": "https://s9.vimeos.net/i/03/00000/y7uno0kzptn9.jpg"
+        },
+        {
+          "capitulo": "Episodio 36",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581926&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 37",
+          "videoUrl": "blob:https://vimeos.net/33ab36b0-7271-46f5-beb9-5118a9b651e0"
+        },
+        {
+          "capitulo": "Episodio 38",
+          "videoUrl": "https://vimeos.net/embed-9qlnyt6glkti.html"
+        },
+        {
+          "capitulo": "Episodio 39",
+          "videoUrl": "https://s8.vimeos.net/i/02/00005/9qlnyt6glkti.jpg"
+        },
+        {
+          "capitulo": "Episodio 40",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581930&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 41",
+          "videoUrl": "https://s8.vimeos.net/vtt/02/00005/9qlnyt6glkti_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 42",
+          "videoUrl": "https://s8.vimeos.net/vtt/02/00005/9qlnyt6glkti_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 43",
+          "videoUrl": "blob:https://vimeos.net/3dc38d2f-2337-4053-a711-d48799d9825c"
+        },
+        {
+          "capitulo": "Episodio 44",
+          "videoUrl": "https://vimeos.net/embed-6qnel57u27lv.html"
+        },
+        {
+          "capitulo": "Episodio 45",
+          "videoUrl": "https://s9.vimeos.net/i/03/00000/6qnel57u27lv.jpg"
+        },
+        {
+          "capitulo": "Episodio 46",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581934&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 47",
+          "videoUrl": "blob:https://vimeos.net/d4d65752-db04-4219-a78d-61579e4e432d"
+        }
+      ],
+      "poster": "https://cdn.discordapp.com/attachments/1549186808208826437/1558190230618509482/Imagen_de_ChatGPT_9_oct_2026_15_51_28.png?ex=6aca893c&is=6ac937bc&hm=cc47003f0a0635b33e98c2212c04f437bb06b447e23a9904b5c0181adb098781&",
+      "type": "series",
+      "categoryName": "general",
+      "videoUrl": "https://vimeos.net/embed-yh6mk69zh0a0.html",
+      "adminKey": "local:128"
+    },
+    {
+      "id": 10,
+      "serieId": "woo-una-abogada-extraordinaria-2022",
+      "title": "Woo, Una Abogada Extraordinaria (2022)",
+      "description": "",
+      "category": "general",
+      "episodios": [
+        {
+          "capitulo": "Episodio 1",
+          "videoUrl": "https://vimeos.net/embed-b7ww3jd6uz6z.html"
+        },
+        {
+          "capitulo": "Episodio 2",
+          "videoUrl": "https://vimeos.net/embed-nzfmdkiermcp.html"
+        },
+        {
+          "capitulo": "Episodio 3",
+          "videoUrl": "https://vimeos.net/la/style.css?v=v1"
+        },
+        {
+          "capitulo": "Episodio 4",
+          "videoUrl": "https://vimeos.net/js/xupload.js"
+        },
+        {
+          "capitulo": "Episodio 5",
+          "videoUrl": "https://vimeos.net/player/jw8/jwplayer.js?v=x"
+        },
+        {
+          "capitulo": "Episodio 6",
+          "videoUrl": "https://vimeos.net/js/localstorage-slim.js"
+        },
+        {
+          "capitulo": "Episodio 7",
+          "videoUrl": "https://s14.vimeos.net/i/03/00007/nzfmdkiermcp.jpg"
+        },
+        {
+          "capitulo": "Episodio 8",
+          "videoUrl": "https://vimeos.net/js/pop.js"
+        },
+        {
+          "capitulo": "Episodio 9",
+          "videoUrl": "https://vimeos.net/xd/xd.js?v=12345s"
+        },
+        {
+          "capitulo": "Episodio 10",
+          "videoUrl": "https://vimeos.net/xd/xd.css?v=12"
+        },
+        {
+          "capitulo": "Episodio 11",
+          "videoUrl": "https://anal.vimeos.net/ssr.js?v4"
+        },
+        {
+          "capitulo": "Episodio 12",
+          "videoUrl": "https://vimeos.net/player/jw8/vast.js"
+        },
+        {
+          "capitulo": "Episodio 13",
+          "videoUrl": "https://vimeos.net/player/jw8/jwplayer.core.controls.js"
+        },
+        {
+          "capitulo": "Episodio 14",
+          "videoUrl": "https://vimeos.net/css2/jw8-theme.css?555"
+        },
+        {
+          "capitulo": "Episodio 15",
+          "videoUrl": "https://vimeos.net/player/jw8/translations/es.json"
+        },
+        {
+          "capitulo": "Episodio 16",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.hlsjs.js"
+        },
+        {
+          "capitulo": "Episodio 17",
+          "videoUrl": "https://s14.vimeos.net/vtt/03/00007/nzfmdkiermcp_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 18",
+          "videoUrl": "https://vimeos.net/srt/empty.srt"
+        },
+        {
+          "capitulo": "Episodio 19",
+          "videoUrl": "https://vimeos.net/player/jw8/polyfills.webvtt.js"
+        },
+        {
+          "capitulo": "Episodio 20",
+          "videoUrl": "https://vimeos.net/logo-v.png"
+        },
+        {
+          "capitulo": "Episodio 21",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.cast.js"
+        },
+        {
+          "capitulo": "Episodio 22",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581942&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 23",
+          "videoUrl": "blob:https://vimeos.net/74cf6c9b-1938-4ac4-99e2-2edc51714815"
+        },
+        {
+          "capitulo": "Episodio 24",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.html5.js"
+        },
+        {
+          "capitulo": "Episodio 25",
+          "videoUrl": "https://vimeos.net/cdn-cgi/rum?"
+        },
+        {
+          "capitulo": "Episodio 26",
+          "videoUrl": "https://vimeos.net/player/jw8/vttparser.js"
+        },
+        {
+          "capitulo": "Episodio 27",
+          "videoUrl": "https://vimeos.net/embed-uvywqutbfr0w.html"
+        },
+        {
+          "capitulo": "Episodio 28",
+          "videoUrl": "https://s13.vimeos.net/i/03/00007/uvywqutbfr0w.jpg"
+        },
+        {
+          "capitulo": "Episodio 29",
+          "videoUrl": "https://s13.vimeos.net/vtt/03/00007/uvywqutbfr0w_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 30",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581946&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 31",
+          "videoUrl": "blob:https://vimeos.net/f9026ce7-f20d-49e8-a0b1-deb1ccfcbfe4"
+        },
+        {
+          "capitulo": "Episodio 32",
+          "videoUrl": "https://vimeos.net/embed-1rnmzslyu4z1.html"
+        },
+        {
+          "capitulo": "Episodio 33",
+          "videoUrl": "https://s13.vimeos.net/i/03/00007/1rnmzslyu4z1.jpg"
+        },
+        {
+          "capitulo": "Episodio 34",
+          "videoUrl": "https://s13.vimeos.net/vtt/03/00007/1rnmzslyu4z1_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 35",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581950&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 36",
+          "videoUrl": "blob:https://vimeos.net/cab1fabe-02da-48d3-b6a0-a030eadaabc2"
+        },
+        {
+          "capitulo": "Episodio 37",
+          "videoUrl": "https://vimeos.net/embed-31lg270olenl.html"
+        },
+        {
+          "capitulo": "Episodio 38",
+          "videoUrl": "https://s13.vimeos.net/i/03/00007/31lg270olenl.jpg"
+        },
+        {
+          "capitulo": "Episodio 39",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581954&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 40",
+          "videoUrl": "https://s13.vimeos.net/vtt/03/00007/31lg270olenl_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 41",
+          "videoUrl": "blob:https://vimeos.net/04152656-15a4-4545-89e8-2d79ec27d707"
+        },
+        {
+          "capitulo": "Episodio 42",
+          "videoUrl": "https://vimeos.net/embed-fe4o5fnkvob0.html"
+        },
+        {
+          "capitulo": "Episodio 43",
+          "videoUrl": "https://s13.vimeos.net/i/03/00007/fe4o5fnkvob0.jpg"
+        },
+        {
+          "capitulo": "Episodio 44",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581958&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 45",
+          "videoUrl": "https://s13.vimeos.net/vtt/03/00007/fe4o5fnkvob0_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 46",
+          "videoUrl": "blob:https://vimeos.net/4a92e99c-012f-4562-8b28-827e3a8c1757"
+        }
+      ],
+      "poster": "https://cdn.discordapp.com/attachments/1549186808208826437/1558190230618509482/Imagen_de_ChatGPT_9_oct_2026_15_51_28.png?ex=6aca893c&is=6ac937bc&hm=cc47003f0a0635b33e98c2212c04f437bb06b447e23a9904b5c0181adb098781&",
+      "type": "series",
+      "categoryName": "general",
+      "videoUrl": "https://vimeos.net/embed-b7ww3jd6uz6z.html",
+      "adminKey": "local:129"
+    },
+    {
+      "id": 11,
+      "serieId": "los-asesinatos-del-valhalla-2019",
+      "title": "Los asesinatos del Valhalla (2019)",
+      "description": "",
+      "category": "general",
+      "episodios": [
+        {
+          "capitulo": "Episodio 1",
+          "videoUrl": "https://vimeos.net/embed-9qp7dahv58i3.html"
+        },
+        {
+          "capitulo": "Episodio 2",
+          "videoUrl": "https://vimeos.net/embed-qqihusvj4dzg.html"
+        },
+        {
+          "capitulo": "Episodio 3",
+          "videoUrl": "https://vimeos.net/la/style.css?v=v1"
+        },
+        {
+          "capitulo": "Episodio 4",
+          "videoUrl": "https://vimeos.net/js/xupload.js"
+        },
+        {
+          "capitulo": "Episodio 5",
+          "videoUrl": "https://vimeos.net/player/jw8/jwplayer.js?v=x"
+        },
+        {
+          "capitulo": "Episodio 6",
+          "videoUrl": "https://vimeos.net/js/localstorage-slim.js"
+        },
+        {
+          "capitulo": "Episodio 7",
+          "videoUrl": "https://s1.vimeos.net/i/02/00011/qqihusvj4dzg.jpg"
+        },
+        {
+          "capitulo": "Episodio 8",
+          "videoUrl": "https://vimeos.net/js/pop.js"
+        },
+        {
+          "capitulo": "Episodio 9",
+          "videoUrl": "https://vimeos.net/xd/xd.js?v=12345s"
+        },
+        {
+          "capitulo": "Episodio 10",
+          "videoUrl": "https://vimeos.net/xd/xd.css?v=12"
+        },
+        {
+          "capitulo": "Episodio 11",
+          "videoUrl": "https://anal.vimeos.net/ssr.js?v4"
+        },
+        {
+          "capitulo": "Episodio 12",
+          "videoUrl": "https://vimeos.net/player/jw8/vast.js"
+        },
+        {
+          "capitulo": "Episodio 13",
+          "videoUrl": "https://vimeos.net/player/jw8/jwplayer.core.controls.js"
+        },
+        {
+          "capitulo": "Episodio 14",
+          "videoUrl": "https://vimeos.net/css2/jw8-theme.css?555"
+        },
+        {
+          "capitulo": "Episodio 15",
+          "videoUrl": "https://vimeos.net/player/jw8/translations/es.json"
+        },
+        {
+          "capitulo": "Episodio 16",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.hlsjs.js"
+        },
+        {
+          "capitulo": "Episodio 17",
+          "videoUrl": "https://s1.vimeos.net/vtt/02/00011/qqihusvj4dzg_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 18",
+          "videoUrl": "https://s1.vimeos.net/vtt/02/00011/qqihusvj4dzg_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 19",
+          "videoUrl": "https://vimeos.net/srt/empty.srt"
+        },
+        {
+          "capitulo": "Episodio 20",
+          "videoUrl": "https://vimeos.net/player/jw8/polyfills.webvtt.js"
+        },
+        {
+          "capitulo": "Episodio 21",
+          "videoUrl": "https://vimeos.net/logo-v.png"
+        },
+        {
+          "capitulo": "Episodio 22",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.cast.js"
+        },
+        {
+          "capitulo": "Episodio 23",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581966&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 24",
+          "videoUrl": "blob:https://vimeos.net/102a780f-e85c-4532-8a32-ac3b21a58b3c"
+        },
+        {
+          "capitulo": "Episodio 25",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.html5.js"
+        },
+        {
+          "capitulo": "Episodio 26",
+          "videoUrl": "https://vimeos.net/cdn-cgi/rum?"
+        },
+        {
+          "capitulo": "Episodio 27",
+          "videoUrl": "https://vimeos.net/player/jw8/vttparser.js"
+        },
+        {
+          "capitulo": "Episodio 28",
+          "videoUrl": "https://vimeos.net/embed-ik6brz4pj3nt.html"
+        },
+        {
+          "capitulo": "Episodio 29",
+          "videoUrl": "https://s1.vimeos.net/i/03/00011/ik6brz4pj3nt.jpg"
+        },
+        {
+          "capitulo": "Episodio 30",
+          "videoUrl": "https://s1.vimeos.net/vtt/03/00011/ik6brz4pj3nt_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 31",
+          "videoUrl": "https://s1.vimeos.net/vtt/03/00011/ik6brz4pj3nt_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 32",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581970&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 33",
+          "videoUrl": "blob:https://vimeos.net/976165c7-5a77-48d2-867e-04aca9747882"
+        },
+        {
+          "capitulo": "Episodio 34",
+          "videoUrl": "https://vimeos.net/embed-ycvw72yhyflt.html"
+        },
+        {
+          "capitulo": "Episodio 35",
+          "videoUrl": "https://s1.vimeos.net/i/02/00011/ycvw72yhyflt.jpg"
+        },
+        {
+          "capitulo": "Episodio 36",
+          "videoUrl": "https://s1.vimeos.net/vtt/02/00011/ycvw72yhyflt_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 37",
+          "videoUrl": "https://s1.vimeos.net/vtt/02/00011/ycvw72yhyflt_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 38",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581974&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 39",
+          "videoUrl": "blob:https://vimeos.net/6a3cb772-8e98-48ea-b93e-1b783f275902"
+        },
+        {
+          "capitulo": "Episodio 40",
+          "videoUrl": "https://vimeos.net/embed-1m3b4r1ku38q.html"
+        },
+        {
+          "capitulo": "Episodio 41",
+          "videoUrl": "https://s1.vimeos.net/i/03/00011/1m3b4r1ku38q.jpg"
+        },
+        {
+          "capitulo": "Episodio 42",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581978&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 43",
+          "videoUrl": "https://s1.vimeos.net/vtt/03/00011/1m3b4r1ku38q_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 44",
+          "videoUrl": "https://s1.vimeos.net/vtt/03/00011/1m3b4r1ku38q_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 45",
+          "videoUrl": "blob:https://vimeos.net/7e921893-1604-4bae-bee2-c52b5739ecb5"
+        },
+        {
+          "capitulo": "Episodio 46",
+          "videoUrl": "https://vimeos.net/embed-9rn55fg6oorx.html"
+        },
+        {
+          "capitulo": "Episodio 47",
+          "videoUrl": "https://s1.vimeos.net/i/02/00011/9rn55fg6oorx.jpg"
+        },
+        {
+          "capitulo": "Episodio 48",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581982&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 49",
+          "videoUrl": "https://s1.vimeos.net/vtt/02/00011/9rn55fg6oorx_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 50",
+          "videoUrl": "https://s1.vimeos.net/vtt/02/00011/9rn55fg6oorx_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 51",
+          "videoUrl": "blob:https://vimeos.net/dae7f14f-a516-4cb8-96ee-17a2387c57c5"
+        }
+      ],
+      "poster": "https://cdn.discordapp.com/attachments/1549186808208826437/1558190230618509482/Imagen_de_ChatGPT_9_oct_2026_15_51_28.png?ex=6aca893c&is=6ac937bc&hm=cc47003f0a0635b33e98c2212c04f437bb06b447e23a9904b5c0181adb098781&",
+      "type": "series",
+      "categoryName": "general",
+      "videoUrl": "https://vimeos.net/embed-9qp7dahv58i3.html",
+      "adminKey": "local:130"
+    },
+    {
+      "id": 12,
+      "serieId": "long-bright-river-2025",
+      "title": "Long Bright River (2025)",
+      "description": "",
+      "category": "general",
+      "episodios": [
+        {
+          "capitulo": "Episodio 1",
+          "videoUrl": "https://vimeos.net/embed-koy3wmi1prer.html"
+        },
+        {
+          "capitulo": "Episodio 2",
+          "videoUrl": "https://vimeos.net/embed-z3au4wofnhhe.html"
+        },
+        {
+          "capitulo": "Episodio 3",
+          "videoUrl": "https://vimeos.net/la/style.css?v=v1"
+        },
+        {
+          "capitulo": "Episodio 4",
+          "videoUrl": "https://vimeos.net/js/xupload.js"
+        },
+        {
+          "capitulo": "Episodio 5",
+          "videoUrl": "https://vimeos.net/player/jw8/jwplayer.js?v=x"
+        },
+        {
+          "capitulo": "Episodio 6",
+          "videoUrl": "https://vimeos.net/js/localstorage-slim.js"
+        },
+        {
+          "capitulo": "Episodio 7",
+          "videoUrl": "https://s13.vimeos.net/i/02/00000/z3au4wofnhhe.jpg"
+        },
+        {
+          "capitulo": "Episodio 8",
+          "videoUrl": "https://vimeos.net/js/pop.js"
+        },
+        {
+          "capitulo": "Episodio 9",
+          "videoUrl": "https://vimeos.net/xd/xd.js?v=12345s"
+        },
+        {
+          "capitulo": "Episodio 10",
+          "videoUrl": "https://vimeos.net/xd/xd.css?v=12"
+        },
+        {
+          "capitulo": "Episodio 11",
+          "videoUrl": "https://anal.vimeos.net/ssr.js?v4"
+        },
+        {
+          "capitulo": "Episodio 12",
+          "videoUrl": "https://vimeos.net/player/jw8/vast.js"
+        },
+        {
+          "capitulo": "Episodio 13",
+          "videoUrl": "https://vimeos.net/player/jw8/jwplayer.core.controls.js"
+        },
+        {
+          "capitulo": "Episodio 14",
+          "videoUrl": "https://vimeos.net/css2/jw8-theme.css?555"
+        },
+        {
+          "capitulo": "Episodio 15",
+          "videoUrl": "https://vimeos.net/player/jw8/translations/es.json"
+        },
+        {
+          "capitulo": "Episodio 16",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.hlsjs.js"
+        },
+        {
+          "capitulo": "Episodio 17",
+          "videoUrl": "https://vimeos.net/srt/empty.srt"
+        },
+        {
+          "capitulo": "Episodio 18",
+          "videoUrl": "https://vimeos.net/player/jw8/polyfills.webvtt.js"
+        },
+        {
+          "capitulo": "Episodio 19",
+          "videoUrl": "https://vimeos.net/logo-v.png"
+        },
+        {
+          "capitulo": "Episodio 20",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.cast.js"
+        },
+        {
+          "capitulo": "Episodio 21",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581990&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 22",
+          "videoUrl": "blob:https://vimeos.net/85db6a41-7391-4658-bc15-55172515b0be"
+        },
+        {
+          "capitulo": "Episodio 23",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.html5.js"
+        },
+        {
+          "capitulo": "Episodio 24",
+          "videoUrl": "https://vimeos.net/cdn-cgi/rum?"
+        },
+        {
+          "capitulo": "Episodio 25",
+          "videoUrl": "https://vimeos.net/embed-ii5uih1h5sc2.html"
+        },
+        {
+          "capitulo": "Episodio 26",
+          "videoUrl": "https://s13.vimeos.net/i/03/00000/6yziitodkjaa.jpg"
+        },
+        {
+          "capitulo": "Episodio 27",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581994&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 28",
+          "videoUrl": "blob:https://vimeos.net/276850bd-c843-4f8d-9256-dbf8cea8349a"
+        },
+        {
+          "capitulo": "Episodio 29",
+          "videoUrl": "https://vimeos.net/embed-q5nhq7ddideq.html"
+        },
+        {
+          "capitulo": "Episodio 30",
+          "videoUrl": "https://s13.vimeos.net/i/02/00000/q5nhq7ddideq.jpg"
+        },
+        {
+          "capitulo": "Episodio 31",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791581998&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 32",
+          "videoUrl": "blob:https://vimeos.net/39704edc-8027-4660-9719-308f55b5318e"
+        },
+        {
+          "capitulo": "Episodio 33",
+          "videoUrl": "https://vimeos.net/embed-fzza8rftnfb4.html"
+        },
+        {
+          "capitulo": "Episodio 34",
+          "videoUrl": "https://s13.vimeos.net/i/03/00000/fzza8rftnfb4.jpg"
+        },
+        {
+          "capitulo": "Episodio 35",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791582002&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 36",
+          "videoUrl": "blob:https://vimeos.net/dd1eff9d-6abb-4269-9f37-4bd6cd17f006"
+        },
+        {
+          "capitulo": "Episodio 37",
+          "videoUrl": "https://vimeos.net/embed-tngrnss2noy5.html"
+        },
+        {
+          "capitulo": "Episodio 38",
+          "videoUrl": "https://s13.vimeos.net/i/02/00000/tngrnss2noy5.jpg"
+        },
+        {
+          "capitulo": "Episodio 39",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791582007&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 40",
+          "videoUrl": "blob:https://vimeos.net/328a319b-4c7c-4c6c-8185-3d27c2405689"
+        }
+      ],
+      "poster": "https://cdn.discordapp.com/attachments/1549186808208826437/1558190230618509482/Imagen_de_ChatGPT_9_oct_2026_15_51_28.png?ex=6aca893c&is=6ac937bc&hm=cc47003f0a0635b33e98c2212c04f437bb06b447e23a9904b5c0181adb098781&",
+      "type": "series",
+      "categoryName": "general",
+      "videoUrl": "https://vimeos.net/embed-koy3wmi1prer.html",
+      "adminKey": "local:131"
+    },
+    {
+      "id": 13,
+      "serieId": "percy-jackson-y-los-dioses-del-olimpo-2023",
+      "title": "Percy Jackson y los dioses del Olimpo (2023)",
+      "description": "",
+      "category": "general",
+      "episodios": [
+        {
+          "capitulo": "Episodio 1",
+          "videoUrl": "https://vimeos.net/embed-xx9dcrmgeby4.html"
+        },
+        {
+          "capitulo": "Episodio 2",
+          "videoUrl": "https://vimeos.net/embed-v65fzhztbk4h.html"
+        },
+        {
+          "capitulo": "Episodio 3",
+          "videoUrl": "https://vimeos.net/la/style.css?v=v1"
+        },
+        {
+          "capitulo": "Episodio 4",
+          "videoUrl": "https://vimeos.net/js/xupload.js"
+        },
+        {
+          "capitulo": "Episodio 5",
+          "videoUrl": "https://vimeos.net/player/jw8/jwplayer.js?v=x"
+        },
+        {
+          "capitulo": "Episodio 6",
+          "videoUrl": "https://vimeos.net/js/localstorage-slim.js"
+        },
+        {
+          "capitulo": "Episodio 7",
+          "videoUrl": "https://s9.vimeos.net/i/02/00009/v65fzhztbk4h.jpg"
+        },
+        {
+          "capitulo": "Episodio 8",
+          "videoUrl": "https://vimeos.net/js/pop.js"
+        },
+        {
+          "capitulo": "Episodio 9",
+          "videoUrl": "https://vimeos.net/xd/xd.js?v=12345s"
+        },
+        {
+          "capitulo": "Episodio 10",
+          "videoUrl": "https://vimeos.net/xd/xd.css?v=12"
+        },
+        {
+          "capitulo": "Episodio 11",
+          "videoUrl": "https://anal.vimeos.net/ssr.js?v4"
+        },
+        {
+          "capitulo": "Episodio 12",
+          "videoUrl": "https://vimeos.net/player/jw8/vast.js"
+        },
+        {
+          "capitulo": "Episodio 13",
+          "videoUrl": "https://vimeos.net/player/jw8/jwplayer.core.controls.js"
+        },
+        {
+          "capitulo": "Episodio 14",
+          "videoUrl": "https://vimeos.net/css2/jw8-theme.css?555"
+        },
+        {
+          "capitulo": "Episodio 15",
+          "videoUrl": "https://vimeos.net/player/jw8/translations/es.json"
+        },
+        {
+          "capitulo": "Episodio 16",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.hlsjs.js"
+        },
+        {
+          "capitulo": "Episodio 17",
+          "videoUrl": "https://s9.vimeos.net/vtt/02/00009/v65fzhztbk4h_eng.vtt"
+        },
+        {
+          "capitulo": "Episodio 18",
+          "videoUrl": "https://s9.vimeos.net/vtt/02/00009/v65fzhztbk4h_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 19",
+          "videoUrl": "https://vimeos.net/srt/empty.srt"
+        },
+        {
+          "capitulo": "Episodio 20",
+          "videoUrl": "https://vimeos.net/player/jw8/polyfills.webvtt.js"
+        },
+        {
+          "capitulo": "Episodio 21",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.cast.js"
+        },
+        {
+          "capitulo": "Episodio 22",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791582014&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 23",
+          "videoUrl": "blob:https://vimeos.net/5196915c-a15f-413c-9f2e-0ca2e910ed84"
+        },
+        {
+          "capitulo": "Episodio 24",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.html5.js"
+        },
+        {
+          "capitulo": "Episodio 25",
+          "videoUrl": "https://vimeos.net/cdn-cgi/rum?"
+        },
+        {
+          "capitulo": "Episodio 26",
+          "videoUrl": "https://vimeos.net/player/jw8/vttparser.js"
+        },
+        {
+          "capitulo": "Episodio 27",
+          "videoUrl": "https://vimeos.net/embed-y3ywlhi46ai3.html"
+        },
+        {
+          "capitulo": "Episodio 28",
+          "videoUrl": "https://s11.vimeos.net/i/03/00004/y3ywlhi46ai3.jpg"
+        },
+        {
+          "capitulo": "Episodio 29",
+          "videoUrl": "https://s11.vimeos.net/vtt/03/00004/y3ywlhi46ai3_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 30",
+          "videoUrl": "https://vimeos.net/logo-v.png"
+        },
+        {
+          "capitulo": "Episodio 31",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791582018&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 32",
+          "videoUrl": "blob:https://vimeos.net/c46f6240-9eae-4b9f-a5a8-72269367c44e"
+        },
+        {
+          "capitulo": "Episodio 33",
+          "videoUrl": "https://vimeos.net/embed-u1a7763zmtuk.html"
+        },
+        {
+          "capitulo": "Episodio 34",
+          "videoUrl": "https://s9.vimeos.net/i/02/00009/u1a7763zmtuk.jpg"
+        },
+        {
+          "capitulo": "Episodio 35",
+          "videoUrl": "https://s9.vimeos.net/vtt/02/00009/u1a7763zmtuk_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 36",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791582022&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 37",
+          "videoUrl": "blob:https://vimeos.net/a732b88c-b216-4531-b907-521d5a790335"
+        },
+        {
+          "capitulo": "Episodio 38",
+          "videoUrl": "https://vimeos.net/embed-htlwgqac3sso.html"
+        },
+        {
+          "capitulo": "Episodio 39",
+          "videoUrl": "https://s11.vimeos.net/i/03/00004/htlwgqac3sso.jpg"
+        },
+        {
+          "capitulo": "Episodio 40",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791582026&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 41",
+          "videoUrl": "https://s11.vimeos.net/vtt/03/00004/htlwgqac3sso_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 42",
+          "videoUrl": "blob:https://vimeos.net/08304c7f-f217-4f05-84a6-ca5e61ec85fd"
+        },
+        {
+          "capitulo": "Episodio 43",
+          "videoUrl": "https://vimeos.net/embed-txubwjk6q2vw.html"
+        },
+        {
+          "capitulo": "Episodio 44",
+          "videoUrl": "https://s11.vimeos.net/i/03/00004/txubwjk6q2vw.jpg"
+        },
+        {
+          "capitulo": "Episodio 45",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791582030&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 46",
+          "videoUrl": "https://s11.vimeos.net/vtt/03/00004/txubwjk6q2vw_spa.vtt"
+        },
+        {
+          "capitulo": "Episodio 47",
+          "videoUrl": "blob:https://vimeos.net/d5ce8d43-e5ed-47e9-b207-c3fbbc13e7c2"
+        }
+      ],
+      "poster": "https://cdn.discordapp.com/attachments/1549186808208826437/1558190230618509482/Imagen_de_ChatGPT_9_oct_2026_15_51_28.png?ex=6aca893c&is=6ac937bc&hm=cc47003f0a0635b33e98c2212c04f437bb06b447e23a9904b5c0181adb098781&",
+      "type": "series",
+      "categoryName": "general",
+      "videoUrl": "https://vimeos.net/embed-xx9dcrmgeby4.html",
+      "adminKey": "local:132"
+    },
+    {
+      "id": 14,
+      "serieId": "la-muchacha-que-limpia-2021",
+      "title": "La muchacha que limpia (2021)",
+      "description": "",
+      "category": "general",
+      "episodios": [
+        {
+          "capitulo": "Episodio 1",
+          "videoUrl": "https://vimeos.net/embed-jo5tpqee3bw8.html"
+        },
+        {
+          "capitulo": "Episodio 2",
+          "videoUrl": "https://vimeos.net/embed-yomb4jvmgce6.html"
+        },
+        {
+          "capitulo": "Episodio 3",
+          "videoUrl": "https://vimeos.net/la/style.css?v=v1"
+        },
+        {
+          "capitulo": "Episodio 4",
+          "videoUrl": "https://vimeos.net/js/xupload.js"
+        },
+        {
+          "capitulo": "Episodio 5",
+          "videoUrl": "https://vimeos.net/player/jw8/jwplayer.js?v=x"
+        },
+        {
+          "capitulo": "Episodio 6",
+          "videoUrl": "https://vimeos.net/js/localstorage-slim.js"
+        },
+        {
+          "capitulo": "Episodio 7",
+          "videoUrl": "https://s1.vimeos.net/i/03/00011/yomb4jvmgce6.jpg"
+        },
+        {
+          "capitulo": "Episodio 8",
+          "videoUrl": "https://vimeos.net/js/pop.js"
+        },
+        {
+          "capitulo": "Episodio 9",
+          "videoUrl": "https://vimeos.net/xd/xd.js?v=12345s"
+        },
+        {
+          "capitulo": "Episodio 10",
+          "videoUrl": "https://vimeos.net/xd/xd.css?v=12"
+        },
+        {
+          "capitulo": "Episodio 11",
+          "videoUrl": "https://anal.vimeos.net/ssr.js?v4"
+        },
+        {
+          "capitulo": "Episodio 12",
+          "videoUrl": "https://vimeos.net/player/jw8/vast.js"
+        },
+        {
+          "capitulo": "Episodio 13",
+          "videoUrl": "https://vimeos.net/player/jw8/jwplayer.core.controls.js"
+        },
+        {
+          "capitulo": "Episodio 14",
+          "videoUrl": "https://vimeos.net/css2/jw8-theme.css?555"
+        },
+        {
+          "capitulo": "Episodio 15",
+          "videoUrl": "https://vimeos.net/player/jw8/translations/es.json"
+        },
+        {
+          "capitulo": "Episodio 16",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.hlsjs.js"
+        },
+        {
+          "capitulo": "Episodio 17",
+          "videoUrl": "https://vimeos.net/srt/empty.srt"
+        },
+        {
+          "capitulo": "Episodio 18",
+          "videoUrl": "https://vimeos.net/player/jw8/polyfills.webvtt.js"
+        },
+        {
+          "capitulo": "Episodio 19",
+          "videoUrl": "https://vimeos.net/logo-v.png"
+        },
+        {
+          "capitulo": "Episodio 20",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.cast.js"
+        },
+        {
+          "capitulo": "Episodio 21",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791582038&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 22",
+          "videoUrl": "blob:https://vimeos.net/d806c32f-22ba-4a9e-90cf-ca5f337de036"
+        },
+        {
+          "capitulo": "Episodio 23",
+          "videoUrl": "https://vimeos.net/player/jw8/provider.html5.js"
+        },
+        {
+          "capitulo": "Episodio 24",
+          "videoUrl": "https://vimeos.net/cdn-cgi/rum?"
+        },
+        {
+          "capitulo": "Episodio 25",
+          "videoUrl": "https://vimeos.net/embed-0sd19tmxiagc.html"
+        },
+        {
+          "capitulo": "Episodio 26",
+          "videoUrl": "https://s1.vimeos.net/i/02/00011/0sd19tmxiagc.jpg"
+        },
+        {
+          "capitulo": "Episodio 27",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791582042&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 28",
+          "videoUrl": "blob:https://vimeos.net/b8661d59-2cb6-4b38-a80e-616e60908e78"
+        },
+        {
+          "capitulo": "Episodio 29",
+          "videoUrl": "https://vimeos.net/embed-he5f7lcccap4.html"
+        },
+        {
+          "capitulo": "Episodio 30",
+          "videoUrl": "https://s1.vimeos.net/i/02/00011/he5f7lcccap4.jpg"
+        },
+        {
+          "capitulo": "Episodio 31",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791582046&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 32",
+          "videoUrl": "blob:https://vimeos.net/6a7ebf94-0174-4045-be3b-8ddb76c7637c"
+        },
+        {
+          "capitulo": "Episodio 33",
+          "videoUrl": "https://vimeos.net/embed-la7z2qwnqye1.html"
+        },
+        {
+          "capitulo": "Episodio 34",
+          "videoUrl": "https://s1.vimeos.net/i/03/00011/la7z2qwnqye1.jpg"
+        },
+        {
+          "capitulo": "Episodio 35",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791582050&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 36",
+          "videoUrl": "blob:https://vimeos.net/5f69dba9-a01d-4d24-9cc3-88b19e7a5981"
+        },
+        {
+          "capitulo": "Episodio 37",
+          "videoUrl": "https://vimeos.net/embed-vvrxlx23p68f.html"
+        },
+        {
+          "capitulo": "Episodio 38",
+          "videoUrl": "https://s1.vimeos.net/i/02/00011/vvrxlx23p68f.jpg"
+        },
+        {
+          "capitulo": "Episodio 39",
+          "videoUrl": "https://anal.vimeos.net/info?site=lamovie.link&uuid=26dbb493-1132-49b3-a795-caa517b800a8&ts=1791582054&isIframe=true&parentUrl=https%3A%2F%2Flamovie.org%2F"
+        },
+        {
+          "capitulo": "Episodio 40",
+          "videoUrl": "blob:https://vimeos.net/1e0fb53f-5d4a-4e1d-b8bd-942e7777d4bb"
+        }
+      ],
+      "poster": "https://cdn.discordapp.com/attachments/1549186808208826437/1558190230618509482/Imagen_de_ChatGPT_9_oct_2026_15_51_28.png?ex=6aca893c&is=6ac937bc&hm=cc47003f0a0635b33e98c2212c04f437bb06b447e23a9904b5c0181adb098781&",
+      "type": "series",
+      "categoryName": "general",
+      "videoUrl": "https://vimeos.net/embed-jo5tpqee3bw8.html",
+      "adminKey": "local:133"
+    },
+    {
+      "id": "cf0ba8c1-69e6-4101-b6bc-1a594fc90709",
+      "type": "movie",
+      "movieId": "1",
+      "title": "Backrooms: Sin salida (2026)",
+      "description": "Una extraña puerta aparece en el sótano de una exposición de muebles. Cuando el paciente de una terapeuta desaparece en una dimensión más allá de la realidad, ella deberá adentrarse en lo desconocido para salvarlo.",
+      "category": "ciencia_ficcion",
+      "categoryName": "Ciencia ficción",
+      "videoUrl": "https://vimeos.net/embed-bv19oh01kdb9.html",
+      "url": "https://vimeos.net/embed-bv19oh01kdb9.html",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZmNkZGE0NDYtNTcxZC00ZmYwLTk2NmItM2M4NTg5ZDczMGY2XkEyXkFqcGc@._V1_QL75_UX230_.jpg",
+      "createdAt": "2026-10-10T00:37:27.886Z",
+      "adminKey": "local:134"
+    },
+    {
+      "id": "f5d7b00c-dbfb-4a22-bd73-f6ae3bce4a73",
+      "type": "movie",
+      "movieId": "harry-potter-y-el-caliz-de-fuego-2005",
+      "title": "Harry Potter y el cáliz de fuego (2005)",
+      "category": "accion",
+      "videoUrl": "https://vimeos.net/embed-sv4y9sn8qyah.html",
+      "poster": "https://media.themoviedb.org/t/p/w500/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
+      "description": "",
+      "url": "https://vimeos.net/embed-sv4y9sn8qyah.html",
+      "adminKey": "local:135"
+    },
+    {
+      "id": "9b82b89f-3675-4f3c-b0cf-805b3efbb574",
+      "type": "movie",
+      "movieId": "harry-potter-20-aniversario-regreso-a-hogwarts-2022",
+      "title": "Harry Potter 20 Aniversario: Regreso a Hogwarts (2022)",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-l6r7b4swiqyy.html",
+      "poster": "https://media.themoviedb.org/t/p/w500/jntLBq0MLR3hrwKaTQswxACRPMs.jpg",
+      "description": "",
+      "url": "https://vimeos.net/embed-l6r7b4swiqyy.html",
+      "adminKey": "local:136"
+    },
+    {
+      "id": "ef4e63d5-aef7-4b66-a1fe-f74caa6f5784",
+      "type": "movie",
+      "movieId": "harry-potter-y-las-reliquias-de-la-muerte-parte-2-2011",
+      "title": "Harry Potter y las reliquias de la muerte: Parte 2 (2011)",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-zmqjorxt26dy.html",
+      "poster": "https://media.themoviedb.org/t/p/w500/c54HpQmuwXjHq2C9wmoACjxoom3.jpg",
+      "description": "",
+      "url": "https://vimeos.net/embed-zmqjorxt26dy.html",
+      "adminKey": "local:137"
+    },
+    {
+      "id": "348ed388-aa70-48e9-afa5-3c904fde6138",
+      "type": "movie",
+      "movieId": "harry-potter-y-las-reliquias-de-la-muerte-1a-parte-2010",
+      "title": "Harry Potter y las reliquias de la muerte (1ª parte) (2010)",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-q1qt57zyj0su.html",
+      "poster": "https://media.themoviedb.org/t/p/w500/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
+      "description": "",
+      "url": "https://vimeos.net/embed-q1qt57zyj0su.html",
+      "adminKey": "local:138"
+    },
+    {
+      "id": "86b743c4-da71-4a9d-a631-d74d3b2ec2e1",
+      "type": "movie",
+      "movieId": "harry-potter-y-la-orden-del-fenix-2007",
+      "title": "Harry Potter y la orden del Fénix (2007)",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-mfhkzv8t279t.html",
+      "poster": "https://media.themoviedb.org/t/p/w500/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
+      "description": "",
+      "url": "https://vimeos.net/embed-mfhkzv8t279t.html",
+      "adminKey": "local:139"
+    },
+    {
+      "id": "e2f9b4a5-df94-465a-a5ad-8ade4aab4133",
+      "type": "movie",
+      "movieId": "harry-potter-y-el-prisionero-de-azkaban-2004",
+      "title": "Harry Potter y el prisionero de Azkaban (2004)",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-v3hi7fx90krj.html",
+      "poster": "https://media.themoviedb.org/t/p/w500/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+      "description": "",
+      "url": "https://vimeos.net/embed-v3hi7fx90krj.html",
+      "adminKey": "local:140"
+    },
+    {
+      "id": "7a48c911-c73b-422f-a6a9-810f31049ad8",
+      "type": "movie",
+      "movieId": "harry-potter-y-la-camara-secreta-2002",
+      "title": "Harry Potter y la cámara secreta (2002)",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-ss600wo96gw1.html",
+      "poster": "https://media.themoviedb.org/t/p/w500/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
+      "description": "",
+      "url": "https://vimeos.net/embed-ss600wo96gw1.html",
+      "adminKey": "local:141"
+    },
+    {
+      "id": "e13d8369-ceab-486e-872b-87e2cc94eb34",
+      "type": "movie",
+      "movieId": "harry-potter-y-la-piedra-filosofal-2001",
+      "title": "Harry Potter y la piedra filosofal (2001)",
+      "category": "general",
+      "videoUrl": "https://vimeos.net/embed-owsz4vp06314.html",
+      "poster": "https://media.themoviedb.org/t/p/w500/pE280RjO3rfOlnbjhcdykD65pBw.jpg",
+      "description": "",
+      "url": "https://vimeos.net/embed-owsz4vp06314.html",
+      "adminKey": "local:142"
+    }
+  ],
+  "categories": [
+    {
+      "slug": "accion",
+      "name": "Acción"
+    },
+    {
+      "slug": "animacion",
+      "name": "Animación"
+    },
+    {
+      "slug": "ciencia_ficcion",
+      "name": "Ciencia ficción"
+    },
+    {
+      "slug": "general",
+      "name": "general"
+    },
+    {
+      "slug": "terror",
+      "name": "Terror"
+    },
+    {
+      "slug": "mcu",
+      "name": "Universo Cinematográfico de Marvel"
+    }
+  ]
+}
