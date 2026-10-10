@@ -1,8 +1,8 @@
 {
-  "versionCode": 39,
-  "versionName": "1.3.21",
-  "releaseNotes": "Catálogo cifrado dentro de la APK y en las sincronizaciones publicadas.",
+  "versionCode": 41,
+  "versionName": "1.3.23",
+  "releaseNotes": "Mejor control de reproducción con OK en Android TV y controles visibles del reproductor.",
   "catalogUrl": "https://raw.githubusercontent.com/chilinisky/chilinisky-updates/main/catalog.json",
-  "mobileApkUrl": "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.21/chilinisky-mobile-v39.apk",
-  "tvApkUrl": "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.21/chilinisky-tv-v39.apk"
+  "mobileApkUrl": "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.23/chilinisky-mobile-v41.apk",
+  "tvApkUrl": "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.23/chilinisky-tv-v41.apk"
 }
