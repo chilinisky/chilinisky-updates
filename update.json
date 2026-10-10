@@ -1,8 +1,8 @@
 {
-  "versionCode": 30,
-  "versionName": "1.3.12",
-  "releaseNotes": "Interfaz optimizada para TV con filas de películas y navegación remota más clara.",
+  "versionCode": 31,
+  "versionName": "1.3.13",
+  "releaseNotes": "Ajuste de pantalla completa y reproducción en Android TV.",
   "catalogUrl": "https://raw.githubusercontent.com/chilinisky/chilinisky-updates/main/catalog.json",
-  "mobileApkUrl": "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.12/chilinisky-mobile-v30.apk",
-  "tvApkUrl": "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.12/chilinisky-tv-v30.apk"
+  "mobileApkUrl": "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.13/chilinisky-mobile-v31.apk",
+  "tvApkUrl": "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.13/chilinisky-tv-v31.apk"
 }
