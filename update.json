@@ -1,8 +1,8 @@
 {
-    "versionCode":  54,
-    "versionName":  "1.3.36",
-    "releaseNotes":  "mejoras",
+    "versionCode":  55,
+    "versionName":  "1.3.37",
+    "releaseNotes":  "mejora visuales app y rendimiento",
     "catalogUrl":  "https://raw.githubusercontent.com/chilinisky/chilinisky-updates/main/catalog.json",
-    "mobileApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.36/chilinisky-mobile-v54.apk",
-    "tvApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.36/chilinisky-tv-v54.apk"
+    "mobileApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.37/chilinisky-mobile-v55.apk",
+    "tvApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.37/chilinisky-tv-v55.apk"
 }
