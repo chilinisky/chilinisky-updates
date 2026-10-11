@@ -1,8 +1,8 @@
 {
-    "versionCode":  50,
-    "versionName":  "1.3.32",
-    "releaseNotes":  "reproductor tv",
+    "versionCode":  52,
+    "versionName":  "1.3.34",
+    "releaseNotes":  "reproductor",
     "catalogUrl":  "https://raw.githubusercontent.com/chilinisky/chilinisky-updates/main/catalog.json",
-    "mobileApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.32/chilinisky-mobile-v50.apk",
-    "tvApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.32/chilinisky-tv-v50.apk"
+    "mobileApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.34/chilinisky-mobile-v52.apk",
+    "tvApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.34/chilinisky-tv-v52.apk"
 }
