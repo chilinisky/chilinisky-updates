@@ -1,8 +1,8 @@
 {
-    "versionCode":  46,
-    "versionName":  "1.3.28",
-    "releaseNotes":  "peliculas nuevas",
+    "versionCode":  48,
+    "versionName":  "1.3.30",
+    "releaseNotes":  "reproductor",
     "catalogUrl":  "https://raw.githubusercontent.com/chilinisky/chilinisky-updates/main/catalog.json",
-    "mobileApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.28/chilinisky-mobile-v46.apk",
-    "tvApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.28/chilinisky-tv-v46.apk"
+    "mobileApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.30/chilinisky-mobile-v48.apk",
+    "tvApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.30/chilinisky-tv-v48.apk"
 }
