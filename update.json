@@ -1,8 +1,8 @@
 {
-    "versionCode":  45,
-    "versionName":  "1.3.27",
-    "releaseNotes":  "optimizacion y mejora visual",
+    "versionCode":  46,
+    "versionName":  "1.3.28",
+    "releaseNotes":  "peliculas nuevas",
     "catalogUrl":  "https://raw.githubusercontent.com/chilinisky/chilinisky-updates/main/catalog.json",
-    "mobileApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.27/chilinisky-mobile-v45.apk",
-    "tvApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.27/chilinisky-tv-v45.apk"
+    "mobileApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.28/chilinisky-mobile-v46.apk",
+    "tvApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.28/chilinisky-tv-v46.apk"
 }
