@@ -1,8 +1,8 @@
 {
-    "versionCode":  44,
-    "versionName":  "1.3.26",
-    "releaseNotes":  "reproductor y teclas",
+    "versionCode":  45,
+    "versionName":  "1.3.27",
+    "releaseNotes":  "optimizacion y mejora visual",
     "catalogUrl":  "https://raw.githubusercontent.com/chilinisky/chilinisky-updates/main/catalog.json",
-    "mobileApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.26/chilinisky-mobile-v44.apk",
-    "tvApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.26/chilinisky-tv-v44.apk"
+    "mobileApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.27/chilinisky-mobile-v45.apk",
+    "tvApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.27/chilinisky-tv-v45.apk"
 }
