@@ -1,8 +1,8 @@
 {
-    "versionCode":  73,
-    "versionName":  "1.3.54",
-    "releaseNotes":  "lupa",
+    "versionCode":  75,
+    "versionName":  "1.3.56",
+    "releaseNotes":  "mejoras",
     "catalogUrl":  "https://raw.githubusercontent.com/chilinisky/chilinisky-updates/main/catalog.json",
-    "mobileApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.54/chilinisky-mobile-v73.apk",
-    "tvApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.54/chilinisky-tv-v73.apk"
+    "mobileApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.56/chilinisky-mobile-v75.apk",
+    "tvApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.56/chilinisky-tv-v75.apk"
 }
