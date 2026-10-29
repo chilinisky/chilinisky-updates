@@ -1,8 +1,8 @@
 {
-    "versionCode":  86,
-    "versionName":  "1.3.67",
-    "releaseNotes":  "bug",
+    "versionCode":  87,
+    "versionName":  "1.3.68",
+    "releaseNotes":  "mejoras",
     "catalogUrl":  "https://raw.githubusercontent.com/chilinisky/chilinisky-updates/main/catalog.json",
-    "mobileApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.67/chilinisky-mobile-v86.apk",
-    "tvApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.67/chilinisky-tv-v86.apk"
+    "mobileApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.68/chilinisky-mobile-v87.apk",
+    "tvApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.68/chilinisky-tv-v87.apk"
 }
