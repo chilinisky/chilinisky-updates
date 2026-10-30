@@ -1,8 +1,8 @@
 {
-    "versionCode":  89,
-    "versionName":  "1.3.70",
-    "releaseNotes":  "mejoras visual y de rendimiento",
+    "versionCode":  90,
+    "versionName":  "1.3.71",
+    "releaseNotes":  "correcion de bug",
     "catalogUrl":  "https://raw.githubusercontent.com/chilinisky/chilinisky-updates/main/catalog.json",
-    "mobileApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.70/chilinisky-mobile-v89.apk",
-    "tvApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.70/chilinisky-tv-v89.apk"
+    "mobileApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.71/chilinisky-mobile-v90.apk",
+    "tvApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.71/chilinisky-tv-v90.apk"
 }
