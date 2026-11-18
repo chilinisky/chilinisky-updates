@@ -1,8 +1,8 @@
 {
-    "versionCode":  90,
-    "versionName":  "1.3.71",
-    "releaseNotes":  "correcion de bug",
+    "versionCode":  91,
+    "versionName":  "1.3.72",
+    "releaseNotes":  "tv bug",
     "catalogUrl":  "https://raw.githubusercontent.com/chilinisky/chilinisky-updates/main/catalog.json",
-    "mobileApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.71/chilinisky-mobile-v90.apk",
-    "tvApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.71/chilinisky-tv-v90.apk"
+    "mobileApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.72/chilinisky-mobile-v91.apk",
+    "tvApkUrl":  "https://github.com/chilinisky/chilinisky-updates/releases/download/v1.3.72/chilinisky-tv-v91.apk"
 }
